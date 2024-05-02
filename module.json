@@ -1,0 +1,43 @@
+{
+  "id": "fate-lc-sheet",
+  "title": "Fate lc sheet",
+  "version": "1.0.0",
+  "esmodules": [
+    "src/main.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "styles": [
+    "css/styles.css"
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Custom character sheet for the homebrew setting of Fate/Lost Continum created by Kodakzing",
+  "authors": [
+    {
+      "name": "R0bot0",
+      "discord": "elr0bot0",
+      "email": "maldonadolosadar@gmail.com",
+      "flags": {}
+    }
+  ],
+  "requires": [
+    {
+      "id": "babele",
+      "type": "module",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "compatibility": {
+        "minimum": "2.5.3",
+        "verified": "2.5.3",
+        "maximum": "2.5.3"
+      }
+    }
+  ]
+}

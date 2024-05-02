@@ -1,0 +1,12 @@
+{
+  "DND5E.AbilityStr": "Strength",
+  "DND5E.AbilityStrAbbr": "STR",
+  "DND5E.AbilityCon": "Endurance",
+  "DND5E.AbilityConAbbr": "END",
+  "DND5E.AbilityDex": "Agility",
+  "DND5E.AbilityDexAbbr": "AGL",
+  "DND5E.AbilityInt": "Mana",
+  "DND5E.AbilityIntAbbr": "MNA",
+  "DND5E.AbilityWis": "Luck",
+  "DND5E.AbilityWisAbbr": "LCK"
+}
