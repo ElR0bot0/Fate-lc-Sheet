@@ -44,5 +44,6 @@
     }
   ],
   "url": "https://github.com/ElR0bot0/Fate-lc-Sheet",
-	"manifest": "https://raw.githubusercontent.com/ElR0bot0/Fate-lc-Sheet/main/module.json"
+	"manifest": "https://raw.githubusercontent.com/ElR0bot0/Fate-lc-Sheet/main/module.json",
+	"download": "https://github.com/ElR0bot0/Fate-lc-Sheet/archive/refs/tags/Prerelease.zip"
 }
