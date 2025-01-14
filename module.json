@@ -15,6 +15,9 @@
   "styles": [
     "css/styles.css"
   ],
+  "scripts": [
+		"src/main.js"
+	],
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -39,5 +42,7 @@
         "maximum": "2.5.3"
       }
     }
-  ]
+  ],
+  "url": "https://github.com/ElR0bot0/Fate-lc-Sheet",
+	"manifest": "https://raw.githubusercontent.com/ElR0bot0/Fate-lc-Sheet/main/module.json"
 }
