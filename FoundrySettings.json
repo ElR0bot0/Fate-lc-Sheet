@@ -1,0 +1,989 @@
+[
+  {
+    "key": "_chatcommands.recentRolls",
+    "value": "[\"1d12\",\"1d10\",\"1d2\"]"
+  },
+  {
+    "key": "ActiveAuras.ActiveGM",
+    "value": "\"MkVNTWKJr4PkwjEi\""
+  },
+  {
+    "key": "core.collectionSortingModes",
+    "value": "{\"CompendiumPacks\":\"t\",\"city-of-mist.macro\":\"a\",\"ActorsPF2e\":\"a\"}"
+  },
+  {
+    "key": "core.colorScheme",
+    "value": "\"dark\""
+  },
+  {
+    "key": "core.combatTheme",
+    "value": "\"epic\""
+  },
+  {
+    "key": "core.compendiumConfiguration",
+    "value": "{\"dnd5e.rules\":{\"folder\":\"rnnrEnIpbjqhQSLu\"},\"dnd5e.tables\":{\"folder\":\"rnnrEnIpbjqhQSLu\"},\"dnd5e.heroes\":{\"folder\":\"rnnrEnIpbjqhQSLu\"},\"dnd5e.classes\":{\"folder\":\"02TJoUBOBfEO0sjh\"},\"dnd5e.subclasses\":{\"folder\":\"02TJoUBOBfEO0sjh\"},\"dnd5e.classfeatures\":{\"folder\":\"02TJoUBOBfEO0sjh\"},\"dnd5e.backgrounds\":{\"folder\":\"02TJoUBOBfEO0sjh\"},\"dnd5e.races\":{\"folder\":\"02TJoUBOBfEO0sjh\"},\"dnd5e.items\":{\"folder\":\"fYw1sdhiJskjINLV\"},\"dnd5e.spells\":{\"folder\":\"fYw1sdhiJskjINLV\"},\"dnd5e.tradegoods\":{\"folder\":\"fYw1sdhiJskjINLV\"},\"dnd5e.monsters\":{\"folder\":\"qUZUFpugMyfjcXre\"},\"dnd5e.monsterfeatures\":{\"folder\":\"qUZUFpugMyfjcXre\"},\"world.spells\":{\"folder\":\"3fk8ny9KQQBDCCjd\"},\"fate-lc-sheet.backgrounds\":{\"folder\":\"fJ4lP6bcsWUjoaBm\",\"sort\":100000,\"locked\":false},\"fate-lc-sheet.classes\":{\"folder\":\"fJ4lP6bcsWUjoaBm\",\"sort\":200000,\"locked\":false},\"fate-lc-sheet.familiars-minions-and-others\":{\"folder\":\"3fk8ny9KQQBDCCjd\",\"sort\":300000},\"fate-lc-sheet.pregenerated-characters\":{\"folder\":\"3fk8ny9KQQBDCCjd\",\"sort\":400000,\"locked\":false},\"fate-lc-sheet.spells\":{\"folder\":\"3fk8ny9KQQBDCCjd\",\"sort\":675000,\"locked\":false},\"fate-lc-sheet.items\":{\"folder\":\"3fk8ny9KQQBDCCjd\",\"sort\":687500,\"locked\":false},\"fate-lc-sheet.minions-and-monsters\":{\"folder\":\"3fk8ny9KQQBDCCjd\",\"sort\":662500,\"locked\":false},\"fate-lc-sheet.premade-characters\":{\"folder\":\"3fk8ny9KQQBDCCjd\",\"sort\":275000,\"locked\":false},\"fate-lc-sheet.servants\":{\"folder\":\"3fk8ny9KQQBDCCjd\",\"sort\":700000,\"locked\":false},\"fate-lc-sheet.rules\":{\"folder\":\"3fk8ny9KQQBDCCjd\",\"sort\":650000,\"locked\":false,\"ownership\":{\"ASSISTANT\":\"OWNER\",\"PLAYER\":\"OBSERVER\",\"GAMEMASTER\":\"OWNER\"}},\"ActiveAuras.aa-aura-items\":{\"folder\":\"OzeaEJq1YwAC5KC7\"},\"ActiveAuras.aa-zone-actors\":{\"folder\":\"OzeaEJq1YwAC5KC7\"},\"ActiveAuras.aa-macros\":{\"folder\":\"OzeaEJq1YwAC5KC7\"},\"levels.levelsmacros\":{\"folder\":\"2RhDptgGoi1jTWWz\"},\"levels.maps\":{\"folder\":\"2RhDptgGoi1jTWWz\"},\"fate-lc-sheet.scenes\":{\"folder\":\"3fk8ny9KQQBDCCjd\",\"sort\":462500,\"locked\":false},\"fate-lc-sheet.decks\":{\"folder\":\"3fk8ny9KQQBDCCjd\",\"sort\":368750,\"locked\":false},\"fate-lc-sheet.rollable-tables\":{\"folder\":\"3fk8ny9KQQBDCCjd\",\"sort\":321875,\"locked\":false}}"
+  },
+  {
+    "key": "core.defaultDrawingConfig",
+    "value": "{\"strokeWidth\":8,\"strokeColor\":\"#213519\",\"strokeAlpha\":1,\"bezierFactor\":0,\"fillType\":1,\"fillColor\":\"#32ece0\",\"fillAlpha\":0.9,\"texture\":null,\"text\":\"\",\"fontFamily\":\"Signika\",\"fontSize\":24,\"textColor\":\"#ab2cce\",\"textAlpha\":1}"
+  },
+  {
+    "key": "core.globalAmbientVolume",
+    "value": "0.9259454627568515"
+  },
+  {
+    "key": "core.keybindings",
+    "value": "{\"monks-wall-enhancement.walls\":[],\"monks-wall-enhancement.terrain\":[],\"plutonium.KEYBINDINGS.Dismiss\":[{\"key\":\"Escape\",\"modifiers\":[]}]}"
+  },
+  {
+    "key": "core.moduleConfiguration",
+    "value": "{\"alternative-exhaustion-5e\":false,\"babonus\":false,\"chris-premades\":false,\"plutonium\":true,\"tidy5e-sheet\":false,\"raise-my-hand\":false,\"canvas3dcompendium\":false,\"canvas3dtokencompendium\":false,\"about-time\":false,\"ActiveAuras\":true,\"ATL\":true,\"age-of-ashes-map-remakes\":false,\"alchemist-import\":false,\"always-centred\":false,\"arka_stream_dice\":false,\"autoanimations\":false,\"babele\":false,\"beavers-gamepad\":false,\"beavers-mobile\":false,\"bsa-dnd5e\":false,\"beavers-system-interface\":false,\"betterroofs\":false,\"boneyard-turn-timer\":false,\"combat-tracker-dock\":true,\"_chatcommands\":true,\"com-hud\":false,\"combat-carousel\":false,\"combat-music-master\":false,\"combatready\":false,\"combatreadythemes\":false,\"compedium-dnd-ravenwood\":false,\"cthulhu-architect-maps-nyarlathotep-tier\":true,\"custom-character-sheet-sections\":false,\"dnd5e-animations\":false,\"ddb-importer\":false,\"dfreds-convenient-effects\":true,\"dice-so-nice\":false,\"dice-calculator\":true,\"dscryb\":false,\"dungeon-draw\":false,\"dae\":true,\"effectmacro\":false,\"entice-with-dice-so-nice\":false,\"forien-copy-environment\":true,\"trs-foundryvtt-dice-set\":false,\"music-streamer\":false,\"fxmaster\":false,\"global-progress-clocks\":false,\"healthEstimate\":false,\"hot-pan\":false,\"itemacro\":false,\"item-piles\":true,\"ivan-duch-music-packs\":false,\"animated-spell-effects-cartoon\":false,\"JB2A_DnD5e\":false,\"lancer-initiative\":false,\"levels\":true,\"colorsettings\":false,\"scene-packer\":false,\"lib-wrapper\":true,\"LockView\":false,\"lordudice\":false,\"maestro\":false,\"export-markdown\":false,\"midi-challenge-mode-armor\":false,\"midi-qol\":true,\"mobile-improvements\":true,\"mobile-sheet\":false,\"monks-active-tiles\":true,\"monks-bloodsplats\":false,\"monks-chat-timer\":false,\"monks-combat-details\":true,\"monks-combat-marker\":true,\"monks-common-display\":false,\"monks-enhanced-journal\":true,\"monks-little-details\":true,\"monks-shops\":false,\"monks-sound-enhancements\":true,\"monks-tokenbar\":false,\"monks-wall-enhancement\":true,\"moonlight-maps-free\":false,\"more-handlebars-helpers\":false,\"multilevel-tokens\":false,\"nimble5e\":false,\"pf2e-exploration-effects\":false,\"pf2e-md-exporter\":false,\"pf2e-mobile-sheet\":false,\"plutonium-addon-automation\":true,\"popout\":false,\"portal-lib\":false,\"precise-drawing-tools\":true,\"Rideable\":true,\"routinglib\":true,\"safety-tools\":false,\"sequencer\":true,\"show-token-art\":false,\"simbuls-athenaeum\":false,\"simbuls-cover-calculator\":false,\"foundryvtt-simple-calendar\":false,\"simplefog\":false,\"socketlib\":true,\"soundfxlibrary\":false,\"fvtt-syrin-control\":false,\"mad-freecontent\":false,\"theripper-premium-hub\":true,\"tidy-ui_game-settings\":false,\"tile-scroll\":false,\"times-up\":true,\"token-action-hud-core\":false,\"token-action-hud-dnd5e\":false,\"token-attacher\":true,\"tokenmagic\":false,\"token-mold\":false,\"vtta-tokenizer\":false,\"torch\":false,\"touch-vtt\":true,\"foundryvtt-es\":false,\"dd-import\":false,\"wall-height\":true,\"warpgate\":false,\"weatherfx\":false,\"wikirole_dice\":false,\"XCard\":false,\"yendors-scene-actors\":true,\"custom-dnd5e\":true,\"fate-lc-sheet\":true,\"midi-qol-for-nimble\":false,\"tabletop-rpg-music\":false,\"cthulhu-architect-handout-generator\":false,\"scenemessage\":true,\"sleek-chat\":false,\"variant-encumbrance-dnd5e\":true}"
+  },
+  {
+    "key": "core.notesDisplayToggle",
+    "value": "true"
+  },
+  {
+    "key": "core.nue.shownTips",
+    "value": "true"
+  },
+  {
+    "key": "core.performanceMode",
+    "value": "0"
+  },
+  {
+    "key": "core.permissions",
+    "value": "{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"PING_CANVAS\":[1,2,3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"CARDS_CREATE\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"NOTE_CREATE\":[2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"ACTOR_CREATE\":[3,4],\"ITEM_CREATE\":[3,4],\"TOKEN_CREATE\":[3,4],\"PLAYLIST_CREATE\":[3,4],\"TOKEN_DELETE\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"MANUAL_ROLLS\":[2,3,4],\"SETTINGS_MODIFY\":[3,4],\"WALL_DOORS\":[1,2,3,4],\"FILES_UPLOAD\":[3,4],\"DRAWING_CREATE\":[1,2,3,4],\"FILES_BROWSE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4]}"
+  },
+  {
+    "key": "core.playlist.playingLocation",
+    "value": "\"bottom\""
+  },
+  {
+    "key": "core.rtcClientSettings",
+    "value": "{\"videoSrc\":\"default\",\"audioSrc\":\"default\",\"audioSink\":\"default\",\"dockPosition\":\"left\",\"hidePlayerList\":false,\"hideDock\":false,\"muteAll\":false,\"disableVideo\":false,\"borderColors\":false,\"nameplates\":1,\"voice\":{\"mode\":\"ptt\",\"pttName\":\"`\",\"pttDelay\":100,\"activityThreshold\":-45},\"users\":{}}"
+  },
+  {
+    "key": "core.sheetClasses",
+    "value": "{\"JournalEntryPage\":{\"class\":\"dnd5e.JournalClassPageSheet\",\"map\":\"dnd5e.JournalMapLocationPageSheet\",\"rule\":\"dnd5e.JournalRulePageSheet\",\"spells\":\"dnd5e.JournalSpellListPageSheet\",\"subclass\":\"dnd5e.JournalClassPageSheet\"}}"
+  },
+  {
+    "key": "core.time",
+    "value": "36"
+  },
+  {
+    "key": "core.tourProgress",
+    "value": "{\"core\":{\"welcome\":3,\"uiOverview\":7,\"sidebar\":13,\"canvasControls\":10,\"backupsOverview\":2,\"compatOverview\":5},\"dice-so-nice\":{\"dice-so-nice-tour\":2},\"chris-premades\":{\"tour\":12}}"
+  },
+  {
+    "key": "custom-dnd5e.abilities",
+    "value": "{\"str\":{\"visible\":true,\"fullKey\":\"strength\",\"label\":\"Strength\",\"abbreviation\":\"STR\",\"improvement\":true,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.nUPv6C66Ur64BIUH\",\"rollMode\":\"default\"},\"dex\":{\"visible\":true,\"fullKey\":\"dexterity\",\"label\":\"Agility\",\"abbreviation\":\"AGL\",\"improvement\":true,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.ER8CKDUWLsFXuARJ\",\"rollMode\":\"default\"},\"con\":{\"visible\":true,\"fullKey\":\"constitution\",\"label\":\"Endurance\",\"abbreviation\":\"END\",\"improvement\":true,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.MpA4jnwD17Q0RPg7\",\"rollMode\":\"default\"},\"int\":{\"visible\":true,\"fullKey\":\"intelligence\",\"label\":\"Mana\",\"abbreviation\":\"MNA\",\"improvement\":true,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.WzWWcTIppki35YvF\",\"rollMode\":\"default\"},\"wis\":{\"visible\":true,\"fullKey\":\"wisdom\",\"label\":\"Luck\",\"abbreviation\":\"LCK\",\"improvement\":true,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.v3IPyTtqvXqN934s\",\"rollMode\":\"default\"},\"cha\":{\"visible\":false,\"fullKey\":\"charisma\",\"label\":\"Charisma\",\"abbreviation\":\"cha\",\"improvement\":true,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.9FyghudYFV5QJOuG\",\"rollMode\":\"default\"}}"
+  },
+  {
+    "key": "custom-dnd5e.apply-bloodied",
+    "value": "true"
+  },
+  {
+    "key": "custom-dnd5e.apply-elevation-to-selected-tokens",
+    "value": "true"
+  },
+  {
+    "key": "custom-dnd5e.apply-negative-hp",
+    "value": "true"
+  },
+  {
+    "key": "custom-dnd5e.apply-unconscious",
+    "value": "true"
+  },
+  {
+    "key": "custom-dnd5e.award-inspiration-roll-types",
+    "value": "{\"rollAbilityTest\":false,\"rollAttack\":false,\"rollAbilitySave\":false,\"rollSkill\":false}"
+  },
+  {
+    "key": "custom-dnd5e.banner-image",
+    "value": "\"modules/fate-lc-sheet/assets/FateCustomBanner.jpeg\""
+  },
+  {
+    "key": "custom-dnd5e.character-counters",
+    "value": "{\"XyO4zUoiibNXkQ82\":{\"viewRole\":1,\"editRole\":1,\"max\":null,\"label\":\"Command seals\",\"type\":\"number\",\"visible\":true}}"
+  },
+  {
+    "key": "custom-dnd5e.conditions",
+    "value": "{\"bloodied\":{\"label\":\"CUSTOM_DND5E.bloodied\",\"icon\":\"modules/custom-dnd5e/media/icons/bloodied.svg\",\"reference\":\"Compendium.custom-dnd5e.custom-dnd5e-journals.JournalEntry.ngr8w6WBycK59brj.JournalEntryPage.sV0ZCKxwh4n4ZU1P\",\"sheet\":true,\"visible\":true},\"bleeding\":{\"label\":\"EFFECT.DND5E.StatusBleeding\",\"icon\":\"systems/dnd5e/icons/svg/statuses/bleeding.svg\",\"pseudo\":true,\"id\":\"bleeding\",\"name\":\"EFFECT.DND5E.StatusBleeding\",\"_id\":\"dnd5ebleeding000\",\"img\":\"systems/dnd5e/icons/svg/statuses/bleeding.svg\",\"visible\":true},\"blinded\":{\"label\":\"DND5E.ConBlinded\",\"icon\":\"systems/dnd5e/icons/svg/statuses/blinded.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.0b8N4FymGGfbZGpJ\",\"special\":\"BLIND\",\"id\":\"blinded\",\"name\":\"DND5E.ConBlinded\",\"_id\":\"dnd5eblinded0000\",\"img\":\"systems/dnd5e/icons/svg/statuses/blinded.svg\",\"sheet\":true,\"visible\":true},\"burning\":{\"label\":\"EFFECT.DND5E.StatusBurning\",\"icon\":\"systems/dnd5e/icons/svg/statuses/burning.svg\",\"pseudo\":true,\"id\":\"burning\",\"name\":\"EFFECT.DND5E.StatusBurning\",\"_id\":\"dnd5eburning0000\",\"img\":\"systems/dnd5e/icons/svg/statuses/burning.svg\",\"visible\":true},\"charmed\":{\"label\":\"Charmed\",\"icon\":\"systems/dnd5e/icons/svg/statuses/charmed.svg\",\"reference\":\"Compendium.fate-lc-sheet.rules.JournalEntry.SD53rhuom4Xp0ua7.JournalEntryPage.tUHzujVrTdkJqboO\",\"id\":\"charmed\",\"name\":\"DND5E.ConCharmed\",\"_id\":\"dnd5echarmed0000\",\"img\":\"systems/dnd5e/icons/svg/statuses/charmed.svg\",\"sheet\":true,\"system\":true,\"levels\":null,\"special\":\"\",\"hud\":true,\"pseudo\":false,\"riders\":[],\"statuses\":[],\"visible\":true},\"cursed\":{\"label\":\"EFFECT.DND5E.StatusCursed\",\"icon\":\"systems/dnd5e/icons/svg/statuses/cursed.svg\",\"pseudo\":true,\"id\":\"cursed\",\"name\":\"EFFECT.DND5E.StatusCursed\",\"_id\":\"dnd5ecursed00000\",\"img\":\"systems/dnd5e/icons/svg/statuses/cursed.svg\",\"visible\":true},\"dehydration\":{\"label\":\"EFFECT.DND5E.StatusDehydration\",\"icon\":\"systems/dnd5e/icons/svg/statuses/dehydration.svg\",\"pseudo\":true,\"id\":\"dehydration\",\"name\":\"EFFECT.DND5E.StatusDehydration\",\"_id\":\"dnd5edehydration\",\"img\":\"systems/dnd5e/icons/svg/statuses/dehydration.svg\",\"visible\":true},\"deafened\":{\"label\":\"DND5E.ConDeafened\",\"icon\":\"systems/dnd5e/icons/svg/statuses/deafened.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.6G8JSjhn701cBITY\",\"id\":\"deafened\",\"name\":\"DND5E.ConDeafened\",\"_id\":\"dnd5edeafened000\",\"img\":\"systems/dnd5e/icons/svg/statuses/deafened.svg\",\"sheet\":true,\"visible\":true},\"diseased\":{\"label\":\"DND5E.ConDiseased\",\"icon\":\"systems/dnd5e/icons/svg/statuses/diseased.svg\",\"pseudo\":true,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.oNQWvyRZkTOJ8PBq\",\"id\":\"diseased\",\"name\":\"DND5E.ConDiseased\",\"_id\":\"dnd5ediseased000\",\"img\":\"systems/dnd5e/icons/svg/statuses/diseased.svg\",\"visible\":true},\"exhaustion\":{\"label\":\"DND5E.ConExhaustion\",\"icon\":\"systems/dnd5e/icons/svg/statuses/exhaustion.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.cspWveykstnu3Zcv\",\"levels\":6,\"reduction\":{\"rolls\":2,\"speed\":5},\"id\":\"exhaustion\",\"name\":\"DND5E.ConExhaustion\",\"_id\":\"dnd5eexhaustion0\",\"img\":\"systems/dnd5e/icons/svg/statuses/exhaustion.svg\",\"sheet\":true,\"visible\":true},\"falling\":{\"label\":\"EFFECT.DND5E.StatusFalling\",\"icon\":\"systems/dnd5e/icons/svg/statuses/falling.svg\",\"pseudo\":true,\"id\":\"falling\",\"name\":\"EFFECT.DND5E.StatusFalling\",\"_id\":\"dnd5efalling0000\",\"img\":\"systems/dnd5e/icons/svg/statuses/falling.svg\",\"visible\":true},\"frightened\":{\"label\":\"DND5E.ConFrightened\",\"icon\":\"systems/dnd5e/icons/svg/statuses/frightened.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.oreoyaFKnvZCrgij\",\"id\":\"frightened\",\"name\":\"DND5E.ConFrightened\",\"_id\":\"dnd5efrightened0\",\"img\":\"systems/dnd5e/icons/svg/statuses/frightened.svg\",\"sheet\":true,\"visible\":true},\"grappled\":{\"label\":\"DND5E.ConGrappled\",\"icon\":\"systems/dnd5e/icons/svg/statuses/grappled.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.gYDAhd02ryUmtwZn\",\"id\":\"grappled\",\"name\":\"DND5E.ConGrappled\",\"_id\":\"dnd5egrappled000\",\"img\":\"systems/dnd5e/icons/svg/statuses/grappled.svg\",\"sheet\":true,\"visible\":true},\"incapacitated\":{\"label\":\"DND5E.ConIncapacitated\",\"icon\":\"systems/dnd5e/icons/svg/statuses/incapacitated.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.TpkZgLfxCmSndmpb\",\"id\":\"incapacitated\",\"name\":\"DND5E.ConIncapacitated\",\"_id\":\"dnd5eincapacitat\",\"img\":\"systems/dnd5e/icons/svg/statuses/incapacitated.svg\",\"sheet\":true,\"visible\":true},\"invisible\":{\"label\":\"DND5E.ConInvisible\",\"icon\":\"systems/dnd5e/icons/svg/statuses/invisible.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.3UU5GCTVeRDbZy9u\",\"id\":\"invisible\",\"name\":\"DND5E.ConInvisible\",\"_id\":\"dnd5einvisible00\",\"img\":\"systems/dnd5e/icons/svg/statuses/invisible.svg\",\"sheet\":true,\"visible\":true},\"malnutrition\":{\"label\":\"EFFECT.DND5E.StatusMalnutrition\",\"icon\":\"systems/dnd5e/icons/svg/statuses/malnutrition.svg\",\"pseudo\":true,\"id\":\"malnutrition\",\"name\":\"EFFECT.DND5E.StatusMalnutrition\",\"_id\":\"dnd5emalnutritio\",\"img\":\"systems/dnd5e/icons/svg/statuses/malnutrition.svg\",\"visible\":true},\"paralyzed\":{\"label\":\"DND5E.ConParalyzed\",\"icon\":\"systems/dnd5e/icons/svg/statuses/paralyzed.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.xnSV5hLJIMaTABXP\",\"statuses\":[\"incapacitated\"],\"id\":\"paralyzed\",\"name\":\"DND5E.ConParalyzed\",\"_id\":\"dnd5eparalyzed00\",\"img\":\"systems/dnd5e/icons/svg/statuses/paralyzed.svg\",\"sheet\":true,\"visible\":true},\"petrified\":{\"label\":\"DND5E.ConPetrified\",\"icon\":\"systems/dnd5e/icons/svg/statuses/petrified.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.xaNDaW6NwQTgHSmi\",\"statuses\":[\"incapacitated\"],\"id\":\"petrified\",\"name\":\"DND5E.ConPetrified\",\"_id\":\"dnd5epetrified00\",\"img\":\"systems/dnd5e/icons/svg/statuses/petrified.svg\",\"sheet\":true,\"visible\":true},\"poisoned\":{\"label\":\"DND5E.ConPoisoned\",\"icon\":\"systems/dnd5e/icons/svg/statuses/poisoned.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.lq3TRI6ZlED8ABMx\",\"id\":\"poisoned\",\"name\":\"DND5E.ConPoisoned\",\"_id\":\"dnd5epoisoned000\",\"img\":\"systems/dnd5e/icons/svg/statuses/poisoned.svg\",\"sheet\":true,\"visible\":true},\"prone\":{\"label\":\"DND5E.ConProne\",\"icon\":\"systems/dnd5e/icons/svg/statuses/prone.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.y0TkcdyoZlOTmAFT\",\"id\":\"prone\",\"name\":\"DND5E.ConProne\",\"_id\":\"dnd5eprone000000\",\"img\":\"systems/dnd5e/icons/svg/statuses/prone.svg\",\"sheet\":true,\"visible\":true},\"restrained\":{\"label\":\"DND5E.ConRestrained\",\"icon\":\"systems/dnd5e/icons/svg/statuses/restrained.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.cSVcyZyNe2iG1fIc\",\"id\":\"restrained\",\"name\":\"DND5E.ConRestrained\",\"_id\":\"dnd5erestrained0\",\"img\":\"systems/dnd5e/icons/svg/statuses/restrained.svg\",\"sheet\":true,\"visible\":true},\"silenced\":{\"label\":\"EFFECT.DND5E.StatusSilenced\",\"icon\":\"systems/dnd5e/icons/svg/statuses/silenced.svg\",\"pseudo\":true,\"id\":\"silenced\",\"name\":\"EFFECT.DND5E.StatusSilenced\",\"_id\":\"dnd5esilenced000\",\"img\":\"systems/dnd5e/icons/svg/statuses/silenced.svg\",\"visible\":true},\"stunned\":{\"label\":\"DND5E.ConStunned\",\"icon\":\"systems/dnd5e/icons/svg/statuses/stunned.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.ZyZMUwA2rboh4ObS\",\"statuses\":[\"incapacitated\"],\"id\":\"stunned\",\"name\":\"DND5E.ConStunned\",\"_id\":\"dnd5estunned0000\",\"img\":\"systems/dnd5e/icons/svg/statuses/stunned.svg\",\"sheet\":true,\"visible\":true},\"suffocation\":{\"label\":\"EFFECT.DND5E.StatusSuffocation\",\"icon\":\"systems/dnd5e/icons/svg/statuses/suffocation.svg\",\"pseudo\":true,\"id\":\"suffocation\",\"name\":\"EFFECT.DND5E.StatusSuffocation\",\"_id\":\"dnd5esuffocation\",\"img\":\"systems/dnd5e/icons/svg/statuses/suffocation.svg\",\"visible\":true},\"surprised\":{\"label\":\"EFFECT.DND5E.StatusSurprised\",\"icon\":\"systems/dnd5e/icons/svg/statuses/surprised.svg\",\"pseudo\":true,\"id\":\"surprised\",\"name\":\"EFFECT.DND5E.StatusSurprised\",\"_id\":\"dnd5esurprised00\",\"img\":\"systems/dnd5e/icons/svg/statuses/surprised.svg\",\"visible\":true},\"transformed\":{\"label\":\"EFFECT.DND5E.StatusTransformed\",\"icon\":\"systems/dnd5e/icons/svg/statuses/transformed.svg\",\"pseudo\":true,\"id\":\"transformed\",\"name\":\"EFFECT.DND5E.StatusTransformed\",\"_id\":\"dnd5etransformed\",\"img\":\"systems/dnd5e/icons/svg/statuses/transformed.svg\",\"visible\":true},\"unconscious\":{\"label\":\"DND5E.ConUnconscious\",\"icon\":\"systems/dnd5e/icons/svg/statuses/unconscious.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.UWw13ISmMxDzmwbd\",\"statuses\":[\"incapacitated\"],\"riders\":[\"prone\"],\"id\":\"unconscious\",\"name\":\"DND5E.ConUnconscious\",\"_id\":\"dnd5eunconscious\",\"img\":\"systems/dnd5e/icons/svg/statuses/unconscious.svg\",\"sheet\":true,\"visible\":true},\"burrowing\":{\"id\":\"burrowing\",\"name\":\"Burrowing\",\"_id\":\"dnd5eburrowing00\",\"img\":\"systems/dnd5e/icons/svg/statuses/burrowing.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/burrowing.svg\",\"label\":\"EFFECT.DND5E.StatusBurrowing\",\"visible\":true},\"concentrating\":{\"id\":\"concentrating\",\"name\":\"Concentrating\",\"_id\":\"dnd5econcentrati\",\"img\":\"systems/dnd5e/icons/svg/statuses/concentrating.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/concentrating.svg\",\"label\":\"EFFECT.DND5E.StatusConcentrating\",\"visible\":true},\"coverHalf\":{\"id\":\"coverHalf\",\"name\":\"Half Cover\",\"order\":2,\"exclusiveGroup\":\"cover\",\"coverBonus\":2,\"_id\":\"dnd5ecoverHalf00\",\"img\":\"systems/dnd5e/icons/svg/statuses/cover-half.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/cover-half.svg\",\"label\":\"EFFECT.DND5E.StatusHalfCover\",\"visible\":true},\"coverThreeQuarters\":{\"id\":\"coverThreeQuarters\",\"name\":\"Three-Quarters Cover\",\"order\":3,\"exclusiveGroup\":\"cover\",\"coverBonus\":5,\"_id\":\"dnd5ecoverThreeQ\",\"img\":\"systems/dnd5e/icons/svg/statuses/cover-three-quarters.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/cover-three-quarters.svg\",\"label\":\"EFFECT.DND5E.StatusThreeQuartersCover\",\"visible\":true},\"coverTotal\":{\"id\":\"coverTotal\",\"name\":\"Total Cover\",\"order\":4,\"exclusiveGroup\":\"cover\",\"_id\":\"dnd5ecoverTotal0\",\"img\":\"systems/dnd5e/icons/svg/statuses/cover-total.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/cover-total.svg\",\"label\":\"EFFECT.DND5E.StatusTotalCover\",\"visible\":true},\"dead\":{\"id\":\"dead\",\"name\":\"Dead\",\"img\":\"systems/dnd5e/icons/svg/statuses/dead.svg\",\"order\":1,\"_id\":\"dnd5edead0000000\",\"icon\":\"systems/dnd5e/icons/svg/statuses/dead.svg\",\"label\":\"EFFECT.DND5E.StatusDead\",\"visible\":true},\"dodging\":{\"id\":\"dodging\",\"name\":\"Dodging\",\"_id\":\"dnd5edodging0000\",\"img\":\"systems/dnd5e/icons/svg/statuses/dodging.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/dodging.svg\",\"label\":\"EFFECT.DND5E.StatusDodging\",\"visible\":true},\"ethereal\":{\"id\":\"ethereal\",\"name\":\"Ethereal\",\"_id\":\"dnd5eethereal000\",\"img\":\"systems/dnd5e/icons/svg/statuses/ethereal.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/ethereal.svg\",\"label\":\"EFFECT.DND5E.StatusEthereal\",\"visible\":true},\"flying\":{\"id\":\"flying\",\"name\":\"Flying\",\"_id\":\"dnd5eflying00000\",\"img\":\"systems/dnd5e/icons/svg/statuses/flying.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/flying.svg\",\"label\":\"EFFECT.DND5E.StatusFlying\",\"visible\":true},\"hiding\":{\"id\":\"hiding\",\"name\":\"Hiding\",\"_id\":\"dnd5ehiding00000\",\"img\":\"systems/dnd5e/icons/svg/statuses/hiding.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/hiding.svg\",\"label\":\"EFFECT.DND5E.StatusHiding\",\"visible\":true},\"hovering\":{\"id\":\"hovering\",\"name\":\"Hovering\",\"_id\":\"dnd5ehovering000\",\"img\":\"systems/dnd5e/icons/svg/statuses/hovering.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/hovering.svg\",\"label\":\"EFFECT.DND5E.StatusHovering\",\"visible\":true},\"marked\":{\"id\":\"marked\",\"name\":\"Marked\",\"_id\":\"dnd5emarked00000\",\"img\":\"systems/dnd5e/icons/svg/statuses/marked.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/marked.svg\",\"label\":\"EFFECT.DND5E.StatusMarked\",\"visible\":true},\"sleeping\":{\"id\":\"sleeping\",\"name\":\"Sleeping\",\"statuses\":[\"incapacitated\",\"unconscious\"],\"_id\":\"dnd5esleeping000\",\"img\":\"systems/dnd5e/icons/svg/statuses/sleeping.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/sleeping.svg\",\"label\":\"EFFECT.DND5E.StatusSleeping\",\"visible\":true},\"stable\":{\"id\":\"stable\",\"name\":\"Stable\",\"_id\":\"dnd5estable00000\",\"img\":\"systems/dnd5e/icons/svg/statuses/stable.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/stable.svg\",\"label\":\"EFFECT.DND5E.StatusStable\",\"visible\":true},\"encumbered\":{\"id\":\"encumbered\",\"name\":\"Encumbered\",\"hud\":false,\"_id\":\"dnd5eencumbered0\",\"img\":\"systems/dnd5e/icons/svg/statuses/encumbered.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/encumbered.svg\",\"label\":\"EFFECT.DND5E.StatusEncumbered\",\"visible\":true},\"heavilyEncumbered\":{\"id\":\"heavilyEncumbered\",\"name\":\"Heavily Encumbered\",\"hud\":false,\"_id\":\"dnd5eheavilyEncu\",\"img\":\"systems/dnd5e/icons/svg/statuses/heavily-encumbered.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/heavily-encumbered.svg\",\"label\":\"EFFECT.DND5E.StatusHeavilyEncumbered\",\"visible\":true},\"exceedingCarryingCapacity\":{\"id\":\"exceedingCarryingCapacity\",\"name\":\"Exceeding Carrying Capacity\",\"hud\":false,\"_id\":\"dnd5eexceedingCa\",\"img\":\"systems/dnd5e/icons/svg/statuses/exceeding-carrying-capacity.svg\",\"icon\":\"systems/dnd5e/icons/svg/statuses/exceeding-carrying-capacity.svg\",\"label\":\"EFFECT.DND5E.StatusExceedingCarryingCapacity\",\"visible\":true},\"slowed\":{\"system\":false,\"label\":\"Slowed\",\"icon\":\"systems/dnd5e/icons/svg/statuses/encumbered.svg\",\"reference\":\"Compendium.fate-lc-sheet.rules.JournalEntry.SD53rhuom4Xp0ua7.JournalEntryPage.6toBuBeTJVuLNKEA\",\"levels\":null,\"special\":\"\",\"hud\":true,\"sheet\":true,\"pseudo\":false,\"riders\":[],\"statuses\":[],\"visible\":true}}"
+  },
+  {
+    "key": "custom-dnd5e.currency",
+    "value": "{\"gp\":{\"visible\":true,\"label\":\"Wealth\",\"abbreviation\":\"wp\",\"conversion\":1,\"icon\":\"systems/dnd5e/icons/currency/silver.webp\"},\"pp\":{\"visible\":false,\"label\":\"Platinum\",\"abbreviation\":\"pp\",\"conversion\":0.1,\"icon\":\"systems/dnd5e/icons/currency/platinum.webp\"},\"ep\":{\"visible\":false,\"label\":\"Electrum\",\"abbreviation\":\"ep\",\"conversion\":2,\"icon\":\"systems/dnd5e/icons/currency/electrum.webp\"},\"sp\":{\"visible\":false,\"label\":\"Silver\",\"abbreviation\":\"sp\",\"conversion\":10,\"icon\":\"systems/dnd5e/icons/currency/silver.webp\"},\"cp\":{\"visible\":false,\"label\":\"Copper\",\"abbreviation\":\"cp\",\"conversion\":100,\"icon\":\"systems/dnd5e/icons/currency/copper.webp\"}}"
+  },
+  {
+    "key": "custom-dnd5e.damage-types",
+    "value": "{\"acid\":{\"label\":\"DND5E.DamageAcid\",\"icon\":\"systems/dnd5e/icons/svg/damage/acid.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.IQhbKRPe1vCPdh8v\",\"color\":\"#839d50\"},\"bludgeoning\":{\"label\":\"DND5E.DamageBludgeoning\",\"icon\":\"systems/dnd5e/icons/svg/damage/bludgeoning.svg\",\"isPhysical\":true,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.39LFrlef94JIYO8m\",\"color\":\"#0000a0\"},\"cold\":{\"label\":\"DND5E.DamageCold\",\"icon\":\"systems/dnd5e/icons/svg/damage/cold.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.4xsFUooHDEdfhw6g\",\"color\":\"#add8e6\"},\"fire\":{\"label\":\"DND5E.DamageFire\",\"icon\":\"systems/dnd5e/icons/svg/damage/fire.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.f1S66aQJi4PmOng6\",\"color\":\"#ff4500\"},\"force\":{\"label\":\"DND5E.DamageForce\",\"icon\":\"systems/dnd5e/icons/svg/damage/force.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.eFTWzngD8dKWQuUR\",\"color\":\"#800080\"},\"lightning\":{\"label\":\"DND5E.DamageLightning\",\"icon\":\"systems/dnd5e/icons/svg/damage/lightning.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.9SaxFJ9bM3SutaMC\",\"color\":\"#1e90ff\"},\"necrotic\":{\"label\":\"DND5E.DamageNecrotic\",\"icon\":\"systems/dnd5e/icons/svg/damage/necrotic.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.klOVUV5G1U7iaKoG\",\"color\":\"#006400\"},\"piercing\":{\"label\":\"DND5E.DamagePiercing\",\"icon\":\"systems/dnd5e/icons/svg/damage/piercing.svg\",\"isPhysical\":true,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.95agSnEGTdAmKhyC\",\"color\":\"#c0c0c0\"},\"poison\":{\"label\":\"DND5E.DamagePoison\",\"icon\":\"systems/dnd5e/icons/svg/damage/poison.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.k5wOYXdWPzcWwds1\",\"color\":\"#8a2be2\"},\"psychic\":{\"label\":\"DND5E.DamagePsychic\",\"icon\":\"systems/dnd5e/icons/svg/damage/psychic.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.YIKbDv4zYqbE5teJ\",\"color\":\"#ff1493\"},\"radiant\":{\"label\":\"DND5E.DamageRadiant\",\"icon\":\"systems/dnd5e/icons/svg/damage/radiant.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.5tcK9buXWDOw8yHH\",\"color\":\"#ffd700\"},\"slashing\":{\"label\":\"DND5E.DamageSlashing\",\"icon\":\"systems/dnd5e/icons/svg/damage/slashing.svg\",\"isPhysical\":true,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.sz2XKQ5lgsdPEJOa\",\"color\":\"#8b0000\"},\"thunder\":{\"label\":\"DND5E.DamageThunder\",\"icon\":\"systems/dnd5e/icons/svg/damage/thunder.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.iqsmMHk7FSpiNkQy\",\"color\":\"#708090\"}}"
+  },
+  {
+    "key": "custom-dnd5e.dead-tint",
+    "value": "\"\""
+  },
+  {
+    "key": "custom-dnd5e.death-saves-roll-mode",
+    "value": "\"blindroll\""
+  },
+  {
+    "key": "custom-dnd5e.group-counters",
+    "value": "{}"
+  },
+  {
+    "key": "custom-dnd5e.item-counters",
+    "value": "{\"j5Z1bv14bCpBmV9j\":{\"visible\":true,\"label\":\"Stacks\",\"type\":\"number\"}}"
+  },
+  {
+    "key": "custom-dnd5e.item-properties",
+    "value": "{\"ada\":{\"visible\":true,\"label\":\"Adamantine\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":true,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":true,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"amm\":{\"visible\":true,\"label\":\"Ammunition\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"concentration\":{\"visible\":true,\"label\":\"Concentration\",\"abbreviation\":\"C\",\"icon\":\"systems/dnd5e/icons/svg/statuses/concentrating.svg\",\"isPhysical\":false,\"isTag\":true,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.ow58p27ctAnr4VPH\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":true,\"tool\":false,\"weapon\":false},\"fin\":{\"visible\":true,\"label\":\"Finesse\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"fir\":{\"visible\":true,\"label\":\"Firearm\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"foc\":{\"visible\":true,\"label\":\"Focus\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":true,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"hvy\":{\"visible\":true,\"label\":\"Heavy\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"lgt\":{\"visible\":true,\"label\":\"Light\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"lod\":{\"visible\":true,\"label\":\"Loading\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"Compendium.fate-lc-sheet.rules.JournalEntry.SD53rhuom4Xp0ua7.JournalEntryPage.a4EpPydvZk8FYTBc\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"material\":{\"visible\":true,\"label\":\"Material\",\"abbreviation\":\"M\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.AeH5eDS4YeM9RETC\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":true,\"tool\":false,\"weapon\":false},\"mgc\":{\"visible\":true,\"label\":\"Magical\",\"abbreviation\":\"\",\"icon\":\"systems/dnd5e/icons/svg/properties/magical.svg\",\"isPhysical\":true,\"isTag\":false,\"reference\":\"\",\"consumable\":true,\"container\":true,\"equipment\":true,\"feat\":true,\"loot\":true,\"spell\":false,\"tool\":true,\"weapon\":true},\"rch\":{\"visible\":true,\"label\":\"Reach\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"rel\":{\"visible\":true,\"label\":\"Reload\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"ret\":{\"visible\":true,\"label\":\"Returning\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"ritual\":{\"visible\":true,\"label\":\"Ritual\",\"abbreviation\":\"R\",\"icon\":\"systems/dnd5e/icons/svg/items/spell.svg\",\"isPhysical\":false,\"isTag\":true,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.FjWqT5iyJ89kohdA\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":true,\"tool\":false,\"weapon\":false},\"sil\":{\"visible\":true,\"label\":\"Silvered\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":true,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"somatic\":{\"visible\":true,\"label\":\"Somatic\",\"abbreviation\":\"S\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.qwUNgUNilEmZkSC9\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":true,\"tool\":false,\"weapon\":false},\"spc\":{\"visible\":true,\"label\":\"Special\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"stealthDisadvantage\":{\"visible\":true,\"label\":\"Stealth Disadvantage\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":true,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":false},\"thr\":{\"visible\":true,\"label\":\"Thrown\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"two\":{\"visible\":true,\"label\":\"Two-Handed\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"ver\":{\"visible\":true,\"label\":\"Versatile\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"vocal\":{\"visible\":true,\"label\":\"Verbal\",\"abbreviation\":\"V\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.6UXTNWMCQ0nSlwwx\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":true,\"tool\":false,\"weapon\":false},\"weightlessContents\":{\"visible\":true,\"label\":\"Weightless Contents\",\"abbreviation\":\"\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"\",\"consumable\":false,\"container\":true,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":false},\"automatic\":{\"visible\":true,\"system\":false,\"label\":\"Automatic\",\"abbreviation\":\"auto\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"Compendium.fate-lc-sheet.rules.JournalEntry.SD53rhuom4Xp0ua7.JournalEntryPage.LLcr2MBqVhWUakoX\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"burstFire\":{\"visible\":true,\"system\":false,\"label\":\"Burst Fire\",\"abbreviation\":\"brst\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"Compendium.fate-lc-sheet.rules.JournalEntry.SD53rhuom4Xp0ua7.JournalEntryPage.akhJSpSi5GYdX6FD\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"scatter\":{\"visible\":true,\"system\":false,\"label\":\"Scatter\",\"abbreviation\":\"scat\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"Compendium.fate-lc-sheet.rules.JournalEntry.SD53rhuom4Xp0ua7.JournalEntryPage.4W4DRMVsCLiwKO8G\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"lance\":{\"visible\":true,\"system\":false,\"label\":\"Lance\",\"abbreviation\":\"lanc\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"Compendium.fate-lc-sheet.rules.JournalEntry.SD53rhuom4Xp0ua7.JournalEntryPage.1X8sGzVG7AVWpumg\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"doubleBarrelShotgun\":{\"visible\":true,\"system\":false,\"label\":\"Double Barrel Shotgun\",\"abbreviation\":\"doubs\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"Compendium.fate-lc-sheet.rules.JournalEntry.SD53rhuom4Xp0ua7.JournalEntryPage.sTglelj23H7rjT9v\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":true},\"net\":{\"visible\":true,\"system\":false,\"label\":\"Net\",\"abbreviation\":\"net\",\"icon\":\"\",\"isPhysical\":false,\"isTag\":false,\"reference\":\"Compendium.fate-lc-sheet.rules.JournalEntry.SD53rhuom4Xp0ua7.JournalEntryPage.0bm2LDgMhK3XCyk1\",\"consumable\":false,\"container\":false,\"equipment\":false,\"feat\":false,\"loot\":false,\"spell\":false,\"tool\":false,\"weapon\":false},\"trait\":{\"label\":\"Passive Trait\",\"feat\":true}}"
+  },
+  {
+    "key": "custom-dnd5e.migration-version",
+    "value": "\"1.2.12\""
+  },
+  {
+    "key": "custom-dnd5e.npc-counters",
+    "value": "{}"
+  },
+  {
+    "key": "custom-dnd5e.radial-status-effects",
+    "value": "true"
+  },
+  {
+    "key": "custom-dnd5e.rolls",
+    "value": "{\"ability\":{\"die\":\"1d20\",\"rollMode\":\"gmroll\"},\"attack\":{\"die\":\"1d20\",\"rollMode\":\"gmroll\"},\"concentration\":{\"die\":\"1d20\",\"rollMode\":\"gmroll\"},\"initiative\":{\"die\":\"1d20\",\"rollMode\":\"gmroll\"},\"savingThrow\":{\"die\":\"1d20\",\"rollMode\":\"gmroll\"},\"skill\":{\"die\":\"1d20\",\"rollMode\":\"gmroll\"},\"tool\":{\"die\":\"1d20\",\"rollMode\":\"gmroll\"}}"
+  },
+  {
+    "key": "custom-dnd5e.show-inspiration",
+    "value": "false"
+  },
+  {
+    "key": "custom-dnd5e.show-pressed-keys",
+    "value": "true"
+  },
+  {
+    "key": "custom-dnd5e.skills",
+    "value": "{\"acr\":{\"visible\":false,\"fullKey\":\"acrobatics\",\"label\":\"Acrobatics\",\"ability\":\"dex\",\"icon\":\"icons/equipment/feet/shoes-simple-leaf-green.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.AvvBLEHNl7kuwPkN\",\"rollMode\":\"default\"},\"ani\":{\"visible\":false,\"fullKey\":\"animalHandling\",\"label\":\"Animal Handling\",\"ability\":\"wis\",\"icon\":\"icons/environment/creatures/horse-brown.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.xb3MCjUvopOU4viE\",\"rollMode\":\"default\"},\"arc\":{\"visible\":false,\"fullKey\":\"arcana\",\"label\":\"Arcana\",\"ability\":\"int\",\"icon\":\"icons/sundries/books/book-embossed-jewel-silver-green.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.h3bYSPge8IOqne1N\",\"rollMode\":\"default\"},\"ath\":{\"visible\":false,\"fullKey\":\"athletics\",\"label\":\"Athletics\",\"ability\":\"str\",\"icon\":\"icons/magic/control/buff-strength-muscle-damage-orange.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.rIR7ttYDUpH3tMzv\",\"rollMode\":\"default\"},\"dec\":{\"visible\":false,\"fullKey\":\"deception\",\"label\":\"Deception\",\"ability\":\"cha\",\"icon\":\"icons/magic/control/mouth-smile-deception-purple.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.mqVZ2fz0L7a9VeKJ\",\"rollMode\":\"default\"},\"his\":{\"visible\":false,\"fullKey\":\"history\",\"label\":\"History\",\"ability\":\"int\",\"icon\":\"icons/sundries/books/book-embossed-bound-brown.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.kRBZbdWMGW9K3wdY\",\"rollMode\":\"default\"},\"ins\":{\"visible\":false,\"fullKey\":\"insight\",\"label\":\"Insight\",\"ability\":\"wis\",\"icon\":\"icons/magic/perception/orb-crystal-ball-scrying-blue.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.8R5SMbAGbECNgO8z\",\"rollMode\":\"default\"},\"itm\":{\"visible\":false,\"fullKey\":\"intimidation\",\"label\":\"Intimidation\",\"ability\":\"cha\",\"icon\":\"icons/skills/social/intimidation-impressing.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.4VHHI2gJ1jEsppfg\",\"rollMode\":\"default\"},\"inv\":{\"visible\":false,\"fullKey\":\"investigation\",\"label\":\"Investigation\",\"ability\":\"int\",\"icon\":\"icons/tools/scribal/magnifying-glass.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.Y7nmbQAruWOs7WRM\",\"rollMode\":\"default\"},\"med\":{\"visible\":false,\"fullKey\":\"medicine\",\"label\":\"Medicine\",\"ability\":\"wis\",\"icon\":\"icons/tools/cooking/mortar-herbs-yellow.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.GeYmM7BVfSCAga4o\",\"rollMode\":\"default\"},\"nat\":{\"visible\":false,\"fullKey\":\"nature\",\"label\":\"Nature\",\"ability\":\"int\",\"icon\":\"icons/magic/nature/plant-sprout-snow-green.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.ueMx3uF2PQlcye31\",\"rollMode\":\"default\"},\"prc\":{\"visible\":false,\"fullKey\":\"perception\",\"label\":\"Perception\",\"ability\":\"wis\",\"icon\":\"icons/magic/perception/eye-ringed-green.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.zjEeHCUqfuprfzhY\",\"rollMode\":\"default\"},\"prf\":{\"visible\":false,\"fullKey\":\"performance\",\"label\":\"Performance\",\"ability\":\"cha\",\"icon\":\"icons/tools/instruments/lute-gold-brown.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.hYT7Z06yDNBcMtGe\",\"rollMode\":\"default\"},\"per\":{\"visible\":false,\"fullKey\":\"persuasion\",\"label\":\"Persuasion\",\"ability\":\"cha\",\"icon\":\"icons/skills/social/diplomacy-handshake.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.4R5H8iIsdFQTsj3X\",\"rollMode\":\"default\"},\"rel\":{\"visible\":false,\"fullKey\":\"religion\",\"label\":\"Religion\",\"ability\":\"int\",\"icon\":\"icons/magic/holy/saint-glass-portrait-halo.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.CXVzERHdP4qLhJXM\",\"rollMode\":\"default\"},\"slt\":{\"visible\":false,\"fullKey\":\"sleightOfHand\",\"label\":\"Sleight of Hand\",\"ability\":\"dex\",\"icon\":\"icons/sundries/gaming/playing-cards.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.yg6SRpGNVz9nDW0A\",\"rollMode\":\"default\"},\"ste\":{\"visible\":false,\"fullKey\":\"stealth\",\"label\":\"Stealth\",\"ability\":\"dex\",\"icon\":\"icons/magic/perception/shadow-stealth-eyes-purple.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.4MfrpERNiQXmvgCI\",\"rollMode\":\"default\"},\"sur\":{\"visible\":false,\"fullKey\":\"survival\",\"label\":\"Survival\",\"ability\":\"wis\",\"icon\":\"icons/magic/fire/flame-burning-campfire-yellow-blue.webp\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.t3EzDU5b9BVAIEVi\",\"rollMode\":\"default\"}}"
+  },
+  {
+    "key": "custom-dnd5e.spell-schools",
+    "value": "{\"abj\":{\"visible\":true,\"fullKey\":\"abjuration\",\"label\":\"Abjuration\",\"icon\":\"systems/dnd5e/icons/svg/schools/abjuration.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.849AYEWw9FHD6JNz\"},\"con\":{\"visible\":true,\"fullKey\":\"conjuration\",\"label\":\"Conjuration\",\"icon\":\"systems/dnd5e/icons/svg/schools/conjuration.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.TWyKMhZJZGqQ6uls\"},\"div\":{\"visible\":true,\"fullKey\":\"divination\",\"label\":\"Divination\",\"icon\":\"systems/dnd5e/icons/svg/schools/divination.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.HoD2MwzmVbMqj9se\"},\"enc\":{\"visible\":true,\"fullKey\":\"enchantment\",\"label\":\"Enchantment\",\"icon\":\"systems/dnd5e/icons/svg/schools/enchantment.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.SehPXk24ySBVOwCZ\"},\"evo\":{\"visible\":true,\"fullKey\":\"evocation\",\"label\":\"Evocation\",\"icon\":\"systems/dnd5e/icons/svg/schools/evocation.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.kGp1RNuxL2SELLRC\"},\"ill\":{\"visible\":true,\"fullKey\":\"illusion\",\"label\":\"Illusion\",\"icon\":\"systems/dnd5e/icons/svg/schools/illusion.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.smEk7kvVyslFozrB\"},\"nec\":{\"visible\":true,\"fullKey\":\"necromancy\",\"label\":\"Necromancy\",\"icon\":\"systems/dnd5e/icons/svg/schools/necromancy.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.W0eyiV1FBmngb6Qh\"},\"trs\":{\"visible\":true,\"fullKey\":\"transmutation\",\"label\":\"Transmutation\",\"icon\":\"systems/dnd5e/icons/svg/schools/transmutation.svg\",\"reference\":\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.IYWewSailtmv6qEb\"},\"sac\":{\"visible\":true,\"system\":false,\"fullKey\":\"sacrament\",\"label\":\"Sacrament\",\"icon\":\"systems/dnd5e/icons/svg/damage/radiant.svg\",\"reference\":\"\"},\"bou\":{\"visible\":true,\"system\":false,\"fullKey\":\"bounded field\",\"label\":\"Bounded Field\",\"icon\":\"systems/dnd5e/icons/svg/activity/summon.svg\",\"reference\":\"\"}}"
+  },
+  {
+    "key": "custom-dnd5e.toggle-status-effect-on-selected-tokens",
+    "value": "true"
+  },
+  {
+    "key": "custom-dnd5e.weapon-proficiencies",
+    "value": "{\"sim\":{\"visible\":true,\"label\":\"Simple\",\"children\":{\"simpleM\":{\"visible\":true,\"label\":\"Simple Melee\"},\"simpleR\":{\"visible\":true,\"label\":\"Simple Ranged\"}}},\"mar\":{\"visible\":true,\"label\":\"Complex\",\"children\":{\"martialM\":{\"visible\":true,\"label\":\"Complex Melee\"},\"martialR\":{\"visible\":true,\"label\":\"Complex Ranged\"}}},\"natural\":{\"visible\":true,\"label\":\"Natural\"},\"improv\":{\"visible\":true,\"label\":\"Improvised\"},\"siege\":{\"visible\":true,\"label\":\"Siege Weapon\"}}"
+  },
+  {
+    "key": "dae.showInline",
+    "value": "true"
+  },
+  {
+    "key": "dfreds-convenient-effects.appControlsPermission",
+    "value": "\"4\""
+  },
+  {
+    "key": "dfreds-convenient-effects.createFoldersPermission",
+    "value": "\"4\""
+  },
+  {
+    "key": "dfreds-convenient-effects.expandedFolders",
+    "value": "[\"Favorites\",\"spells\"]"
+  },
+  {
+    "key": "dfreds-convenient-effects.hasInitialized",
+    "value": "true"
+  },
+  {
+    "key": "dfreds-convenient-effects.ranMigrations",
+    "value": "[\"2024-08-14-migrate-old-custom-effects\"]"
+  },
+  {
+    "key": "dice-calculator.popout",
+    "value": "\"all\""
+  },
+  {
+    "key": "dice-calculator.popoutPosition",
+    "value": "{\"left\":585,\"top\":470}"
+  },
+  {
+    "key": "dnd5e.allowPolymorphing",
+    "value": "true"
+  },
+  {
+    "key": "dnd5e.allowSummoning",
+    "value": "true"
+  },
+  {
+    "key": "dnd5e.autoCollapseItemCards",
+    "value": "true"
+  },
+  {
+    "key": "dnd5e.bloodied",
+    "value": "\"none\""
+  },
+  {
+    "key": "dnd5e.moduleArtConfiguration",
+    "value": "{\"dnd5e\":{\"priority\":100000,\"portraits\":true,\"tokens\":true}}"
+  },
+  {
+    "key": "dnd5e.packSourceConfiguration",
+    "value": "{\"dnd5e.heroes\":false,\"dnd5e.monsters\":false,\"dnd5e.items\":false,\"dnd5e.tradegoods\":false,\"dnd5e.spells\":false,\"dnd5e.backgrounds\":false,\"dnd5e.classes\":false,\"dnd5e.subclasses\":false,\"dnd5e.classfeatures\":false,\"dnd5e.races\":false,\"dnd5e.monsterfeatures\":false,\"dnd5e.rules\":false,\"dnd5e.tables\":false,\"custom-dnd5e.custom-dnd5e-journals\":false,\"custom-dnd5e.custom-dnd5e-items\":false,\"fate-lc-sheet.premade-characters\":true,\"fate-lc-sheet.items\":true,\"fate-lc-sheet.classes\":true,\"fate-lc-sheet.minions-and-monsters\":true,\"fate-lc-sheet.spells\":true,\"fate-lc-sheet.servants\":true}"
+  },
+  {
+    "key": "dnd5e.systemMigrationVersion",
+    "value": "\"4.1.2\""
+  },
+  {
+    "key": "dnd5e.theme",
+    "value": "\"dark\""
+  },
+  {
+    "key": "item-piles.systemFound",
+    "value": "true"
+  },
+  {
+    "key": "item-piles.systemVersion",
+    "value": "\"1.0.8\""
+  },
+  {
+    "key": "levels.chat-welcome-message-shown",
+    "value": "true"
+  },
+  {
+    "key": "levels.migrateOnStartup",
+    "value": "false"
+  },
+  {
+    "key": "midi-qol.AutoFastForwardAbilityRolls",
+    "value": "true"
+  },
+  {
+    "key": "midi-qol.AutoRemoveTargets",
+    "value": "\"none\""
+  },
+  {
+    "key": "midi-qol.ColoredBorders",
+    "value": "\"none\""
+  },
+  {
+    "key": "midi-qol.ConfigSettings",
+    "value": "{\"gmAutoAttack\":true,\"gmAutoFastForwardAttack\":true,\"gmAutoDamage\":\"always\",\"gmAutoFastForwardDamage\":true,\"showItemDetails\":\"all\",\"itemTypeList\":[\"weapon\",\"equipment\",\"consumable\",\"tool\",\"loot\",\"class\",\"spell\",\"feat\",\"backpack\"],\"autoRollAttack\":true,\"autoFastForward\":\"all\",\"autoTarget\":\"wallsBlockIgnoreDefeated\",\"autoCheckHit\":\"all\",\"autoCheckSaves\":\"all\",\"hideRollDetails\":\"none\",\"displaySaveDC\":true,\"checkSaveText\":true,\"autoRollDamage\":\"onHit\",\"autoApplyDamage\":\"yesCard\",\"damageImmunities\":\"immunityPhysical\",\"autoItemEffects\":\"applyRemove\",\"rangeTarget\":\"alwaysIgnoreDefeated\",\"playerRollSaves\":\"noneDialog\",\"playerSaveTimeout\":30,\"rollNPCSaves\":\"auto\",\"preRollChecks\":false,\"mergeCard\":true,\"mergeCardCondensed\":false,\"hideNPCNames\":\"\",\"useTokenNames\":true,\"fullAuto\":false,\"allowUseMacro\":true,\"rollOtherDamage\":\"ifSave\",\"removeButtons\":\"all\",\"gmRemoveButtons\":\"all\",\"concentrationAutomation\":false,\"singleConcentrationRoll\":true,\"optionalRules\":{\"actionSpecialDurationImmediate\":true,\"activeDefence\":false,\"activeDefenceShow\":\"selfroll\",\"challengeModeArmor\":\"none\",\"challengeModeArmorScale\":false,\"checkFlanking\":\"off\",\"checkRange\":\"longfail\",\"coverCalculation\":\"none\",\"displayBonusRolls\":true,\"criticalNat20\":false,\"criticalSaves\":false,\"distanceIncludesHeight\":true,\"incapacitated\":false,\"invisAdvantage\":\"RAW\",\"hiddenAdvantage\":\"none\",\"maxDRValue\":true,\"DRAllPerDamageDetail\":true,\"nearbyAllyRanged\":0,\"nearbyFoe\":5,\"optionalCritRule\":-1,\"removeHiddenInvis\":true,\"wallsBlockRange\":\"center\",\"mergeCardMulti\":false,\"mergeCardMultiDamage\":false,\"enableddbGL\":false,\"enforceReactions\":\"all\",\"recordAOO\":\"all\",\"autoRerollInitiative\":false,\"invisVision\":false,\"vitalityResource\":\"\"},\"optionalRulesEnabled\":true,\"defaultSaveMult\":0.5,\"keepRollStats\":true,\"saveStatsEvery\":20,\"playerStatsOnly\":true,\"removeConcentration\":true,\"usePlayerPortrait\":false,\"doReactions\":\"allMI\",\"gmDoReactions\":\"allMI\",\"reactionTimeout\":30,\"requiresTargets\":\"combat\",\"showReactionAttackRoll\":\"all\",\"autoCEEffects\":\"itempri\",\"rollOtherSpellDamage\":\"ifSave\",\"promptDamageRoll\":false,\"gmHide3dDice\":false,\"ghostRolls\":false,\"gmFastForwardSpells\":false,\"fastForwardSpells\":false,\"accelKeysOverride\":false,\"enableddbGL\":false,\"showReactionChatMessage\":false,\"rollNPCLinkedSaves\":\"auto\",\"gmConsumeResource\":\"none\",\"consumeResource\":\"none\",\"gmLateTargeting\":\"none\",\"lateTargeting\":\"none\",\"addWounded\":null,\"addDead\":\"none\",\"convenientEffectsReaction\":\"Reaction\",\"fixStickyKeys\":true,\"autoFailSavesFriendly\":false,\"worldKeyMappings\":false,\"toggleOptionalRules\":false,\"saveDROrder\":\"DRSavedr\",\"fumbleSound\":\"sounds/dice.wav\",\"criticalSound\":\"sounds/dice.wav\",\"diceSound\":\"sounds/dice.wav\",\"rollChecksBlind\":[],\"rollSavesBlind\":[],\"rollSkillsBlind\":[],\"displaySaveAdvantage\":true,\"recordAOO\":\"all\",\"enforceReactions\":\"displayOnly\",\"enforceBonusActions\":\"displayOnly\",\"playerDamageCard\":\"none\",\"playerCardDamageDifferent\":true,\"displayHitResultNumeric\":false,\"rollAlternate\":\"adv\",\"allowActorUseMacro\":true,\"skillAbilityCheckAdvantage\":true,\"keyMapping\":{\"DND5E.Advantage\":\"altKey\",\"DND5E.Disadvantage\":\"ctrlKey\",\"DND5E.Critical\":\"altKey\",\"DND5E.Versatile\":\"shiftKey\"},\"addWoundedStyle\":\"none\",\"paranoidGM\":false,\"tempHPDamageConcentrationCheck\":false,\"showDSN\":true,\"showFastForward\":true,\"highlightSuccess\":true,\"confirmAttackDamage\":\"none\",\"requireMagical\":\"off\",\"itemRollStartWorkflow\":false,\"ignoreSpellReactionRestriction\":false,\"damageImmunityMultiplier\":0,\"damageResistanceMultiplier\":0.5,\"damageVulnerabilityMultiplier\":2,\"hidePlayerDamageCard\":true,\"attackPerTarget\":false,\"autoRemoveTemplate\":true,\"removeConcentrationEffects\":\"effectsTemplates\",\"undoWorkflow\":false,\"enforceSingleWeaponTarget\":true,\"quickSettings\":true,\"midiWoundedCondition\":\"none\",\"midiDeadCondition\":\"none\",\"midiUnconsciousCondition\":\"none\",\"griddedGridless\":false,\"gridlessFudge\":0,\"concentrationIncapacitatedConditionCheck\":true,\"mergeCardMulti\":false,\"autoCompleteWorkflow\":true,\"useCustomSounds\":false,\"effectActivation\":false,\"addFakeDice\":false,\"highLightCriticalAttackOnly\":false,\"autoRemoveInstantaneousTemplate\":true,\"doConcentrationCheck\":\"chat\",\"undoChatColor\":\"Delete\",\"averageDamage\":\"none\",\"midiFieldsTab\":true,\"v3DamageApplication\":true,\"useDamageDetail\":false,\"collapsibleTargets\":true,\"autoRemoveSummonedCreature\":true,\"midiPropertiesTabRole\":\"0\"}"
+  },
+  {
+    "key": "midi-qol.CriticalDamageGM",
+    "value": "\"default\""
+  },
+  {
+    "key": "midi-qol.Debug",
+    "value": "\"none\""
+  },
+  {
+    "key": "midi-qol.instanceId",
+    "value": "\"nkAjmD98yNFMnz59\""
+  },
+  {
+    "key": "midi-qol.last-run-version",
+    "value": "\"12.4.26\""
+  },
+  {
+    "key": "midi-qol.MidiSoundSettings",
+    "value": "{\"any\":{},\"version\":\"0.9.48\"}"
+  },
+  {
+    "key": "midi-qol.showGM",
+    "value": "true"
+  },
+  {
+    "key": "midi-qol.TargetConfirmation",
+    "value": "{\"enabled\":true,\"always\":false,\"noneTargeted\":false,\"hasAttack\":false,\"hasCreatureTarget\":false,\"targetSelf\":false,\"hasAoE\":false,\"hasRangedAoE\":false,\"longRange\":false,\"inCover\":false,\"mixedDispositiion\":false,\"gridPosition\":{\"x\":1,\"y\":-1},\"all\":true}"
+  },
+  {
+    "key": "monks-active-tiles.drop-item",
+    "value": "false"
+  },
+  {
+    "key": "monks-active-tiles.fix-action-names",
+    "value": "true"
+  },
+  {
+    "key": "monks-active-tiles.fix-forplayer",
+    "value": "true"
+  },
+  {
+    "key": "monks-active-tiles.fix-forplayer-again",
+    "value": "true"
+  },
+  {
+    "key": "monks-active-tiles.fix-imagecycle",
+    "value": "true"
+  },
+  {
+    "key": "monks-active-tiles.fix-rolltable",
+    "value": "true"
+  },
+  {
+    "key": "monks-active-tiles.fix-scene",
+    "value": "true"
+  },
+  {
+    "key": "monks-active-tiles.fix-scene-again",
+    "value": "true"
+  },
+  {
+    "key": "monks-active-tiles.fix-variablename",
+    "value": "true"
+  },
+  {
+    "key": "monks-combat-details.play-next-sound",
+    "value": "true"
+  },
+  {
+    "key": "monks-combat-details.play-turn-sound",
+    "value": "true"
+  },
+  {
+    "key": "monks-combat-details.prevent-combat-spells",
+    "value": "\"true\""
+  },
+  {
+    "key": "monks-combat-details.transfer-settings",
+    "value": "true"
+  },
+  {
+    "key": "monks-combat-details.transfer-settings-client",
+    "value": "true"
+  },
+  {
+    "key": "monks-combat-marker.transfer-settings",
+    "value": "true"
+  },
+  {
+    "key": "monks-enhanced-journal.fix-adjustment",
+    "value": "false"
+  },
+  {
+    "key": "monks-enhanced-journal.fix-checklist",
+    "value": "false"
+  },
+  {
+    "key": "monks-enhanced-journal.fix-journals",
+    "value": "false"
+  },
+  {
+    "key": "monks-enhanced-journal.fix-sheet-settings",
+    "value": "false"
+  },
+  {
+    "key": "monks-enhanced-journal.show-dialog",
+    "value": "false"
+  },
+  {
+    "key": "monks-little-details.prevent-combat-spells",
+    "value": "\"true\""
+  },
+  {
+    "key": "monks-little-details.show-warning",
+    "value": "false"
+  },
+  {
+    "key": "plutonium.config",
+    "value": "{\"actor\":{\"isRefreshOtherOwnedSheets\":true,\"isAddRollDataItemsFeat\":false,\"isAddRollDataItemsItem\":false,\"isAddRollDataItemsSpell\":false,\"isAddRollDataItemsOther\":false,\"isDebugForceGmUserCharLink\":false,\"isAutoMultiattack\":false,\"autoMultiattackNames\":[\"multiattack\"],\"autoMultiattackDelay\":null,\"isUseExtendedActiveEffectsParser\":true},\"artBrowser\":{\"importImagesAs\":0,\"dropAnchor\":0,\"scale\":1,\"scenePadding\":0,\"sceneBackgroundColorMode\":\"browser\",\"sceneBackgroundColorLight\":\"#ffffff\",\"sceneBackgroundColorDark\":\"#222222\",\"isSceneTokenVision\":true,\"isSceneFogExploration\":true,\"isSceneAddToNavigation\":false,\"isSceneGenerateThumbnail\":true,\"isSceneGridMetric\":false,\"tokenSize\":1,\"isSwitchToCreatedScene\":true,\"isDisplaySheetCreatedScene\":true,\"artDirectoryPath\":\"assets/art\",\"buttonDisplay\":{\"0\":false,\"1\":true,\"2\":false,\"3\":true},\"imageSaveMode\":0,\"isSwitchLayerOnDrop\":true,\"isShowMissingBackendWarning\":true},\"currency\":{\"isNpcUseCurrencySheetItems\":true},\"dataSources\":{\"isPlayerEnableSourceSelection\":false,\"isGmEnableSourceSelection\":false,\"isPlayerForceSelectAllowedSources\":false,\"isGmForceSelectAllowedSources\":false,\"isLoadLocalPrereleaseIndex\":false,\"localPrereleaseDirectoryPath\":\"assets/prerelease\",\"isUseLocalPrereleaseIndexJson\":false,\"localPrerelease\":[],\"isLoadLocalHomebrewIndex\":false,\"localHomebrewDirectoryPath\":\"assets/homebrew\",\"isUseLocalHomebrewIndexJson\":false,\"localHomebrew\":[],\"minimumRoleWorldDatasourceSelector\":3,\"minimumRoleBlocklist\":3,\"tooManySourcesWarningThreshold\":50,\"baseSiteUrl\":null,\"baseMediaUrlImg\":null,\"isNoLocalData\":false,\"isNoPrereleaseBrewIndexes\":false,\"basePrereleaseUrl\":null,\"baseBrewUrl\":null},\"equipmentShop\":{\"isUseRarityPricing\":false,\"priceMultiplier\":1,\"startingGold\":null,\"minimumRole\":0,\"minimumRoleAllowOverSpending\":4},\"import\":{\"isAddSourceToName\":false,\"isRenderLinksAsTags\":true,\"isRendererLinksDisabled\":false,\"isRendererDiceDisabled\":false,\"enrichersAutoConvert\":{\"1\":true,\"2\":true,\"3\":true,\"4\":true,\"5\":true,\"6\":true},\"deduplicationMode\":0,\"isDuplicateHandlingMaintainImage\":false,\"minimumRole\":0,\"dragDropMode\":1,\"isGlobalMetricDistance\":\"VE_USE_GAME_DEFAULT\",\"isGlobalMetricWeight\":\"VE_USE_GAME_DEFAULT\",\"isGlobalMetricVolume\":\"VE_USE_GAME_DEFAULT\",\"isShowVariantsInLists\":true,\"isSaveImagesToServer\":false,\"isSaveTokensToServer\":true,\"localImageDirectoryPath\":\"assets/srd5e\",\"isPreferFoundryImages\":false,\"isPreferFoundryTokens\":false,\"hiddenImporterIds\":{\"background-features\":true,\"race-and-subrace-features\":true},\"isTreatJournalEntriesAsFolders\":true,\"isUseLocalImages\":false,\"isStrictMatching\":false,\"summonsFolderName\":\"Summons\",\"tempFolderName\":\"Temp\",\"isUseAdvancementBackingCompendium\":false,\"isAutoAddAdditionalFonts\":true,\"weaponTargetDefault\":0,\"isActivateSidebarTabOnImport\":true,\"isDebugActivityUnusedDamageBlocks\":false,\"isSkipCompendiumImageFetch\":false},\"importAction\":{\"ownership\":0,\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true},\"importAdventure\":{\"ownership\":0,\"isUseModdedInstaller\":false,\"isUseLegacyImporter\":false,\"indexUrl\":\"https://raw.githubusercontent.com/DMsGuild201/Foundry_Resources/master/worlds/index.json\"},\"importBackgroundFeature\":{\"ownership\":0,\"isTargetTemplatePrompt\":true},\"importBackground\":{\"ownership\":0,\"additionalDataCompendium\":[\"dnd5e.backgrounds\",\"dnd-phandelver-below.pbso-player-options\"],\"additionalDataCompendiumFeatures\":[\"dnd5e.backgrounds\",\"dnd-phandelver-below.pbso-player-options\"],\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true},\"importBook\":{\"ownership\":0},\"importCharCreationOption\":{\"ownership\":0,\"isTargetTemplatePrompt\":true,\"isMetricDistance\":false,\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true},\"importClassSubclassFeature\":{\"ownership\":0,\"isTargetTemplatePrompt\":true,\"isMetricDistance\":false,\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true,\"deduplicateRefSelectionMode\":0,\"isLevelPrefixNames\":false},\"importClass\":{\"ownership\":0,\"isAddUnarmedStrike\":false,\"isImportClassTable\":true,\"isImportClassSubclassFeaturesAlways\":true,\"isImportDescriptionFluffText\":true,\"isImportDescriptionFluffImages\":true,\"isAddLevelUpButton\":true,\"isSetXp\":false,\"hpIncreaseMode\":null,\"hpIncreaseModeCustomRollFormula\":null,\"isUseBaldursGateIcons\":true,\"isDisplayOnLevelZeroCharacters\":true,\"isLevelUpButtonDisabledUntilEnoughExperience\":true,\"additionalDataCompendiumClasses\":[\"dnd5e.classes\",\"dnd-tashas-cauldron.tcoe-character-options\"],\"additionalDataCompendiumSubclasses\":[\"dnd5e.subclasses\",\"dnd-tashas-cauldron.tcoe-character-options\"],\"additionalDataCompendiumFeatures\":[\"dnd5e.classfeatures\",\"dnd-tashas-cauldron.tcoe-character-options\"],\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true,\"isUseDefaultSubclassImage\":true,\"isHideSubclassRows\":false},\"importConditionDisease\":{\"ownership\":0,\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true},\"importCreatureFeature\":{\"ownership\":0,\"isTargetTemplatePrompt\":true,\"isSecretWrapAttacks\":false,\"isScaleToTargetActor\":true,\"isMetricDistance\":false,\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isSplitMeleeRangedAttack\":false,\"isPreferFlatSavingThrows\":false},\"importCreature\":{\"ownership\":0,\"isImportBio\":true,\"isImportBioImages\":false,\"isImportBioVariants\":true,\"isImportVariantsAsFeatures\":false,\"tokenNameDisplay\":20,\"tokenDisposition\":-1,\"tokenLockRotation\":\"VE_USE_MODULE_VALUE\",\"tokenIsAddVision\":1,\"tokenSightRange\":\"VE_USE_MODULE_VALUE\",\"tokenSightVisionMode\":\"VE_USE_MODULE_VALUE\",\"tokenSightAngle\":\"VE_USE_MODULE_VALUE\",\"tokenDetectionModes\":\"VE_USE_MODULE_VALUE\",\"tokenVisionSaturation\":\"VE_USE_MODULE_VALUE\",\"tokenDimLight\":\"VE_USE_MODULE_VALUE\",\"tokenBrightLight\":\"VE_USE_MODULE_VALUE\",\"tokenLightAngle\":\"VE_USE_MODULE_VALUE\",\"tokenLightColor\":\"VE_USE_MODULE_VALUE\",\"tokenLightAlpha\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationType\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationSpeed\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationIntensity\":\"VE_USE_MODULE_VALUE\",\"tokenBarDisplay\":40,\"tokenBar1Attribute\":\"attributes.hp\",\"tokenBar2Attribute\":null,\"tokenScale\":null,\"isTokenMetric\":false,\"isEnableDynamicRing\":true,\"dynamicRingRingColor\":null,\"dynamicRingBackgroundColor\":null,\"dynamicRingEffects\":{\"2\":false,\"4\":false,\"8\":false},\"itemWeightAndValueSizeScaling\":1,\"isMetricDistance\":false,\"spellcastingPrimaryTraitMode\":1,\"nameTags\":{\"0\":false,\"1\":false,\"2\":false},\"isAddSoundEffect\":false,\"additionalDataCompendium\":[\"dnd5e.monsters\",\"dnd-phandelver-below.pbso-bestiary\",\"dnd-tashas-cauldron.tcoe-actors\"],\"additionalDataCompendiumFeatures\":[\"dnd5e.monsterfeatures\"],\"isUseTokenImageAsPortrait\":false,\"isDisableActorOverwriteWarning\":false,\"isAddFakeClassToCharacter\":true,\"isUseStaticAc\":false,\"isUseCustomNaturalAc\":false,\"isUsePathfinderTokenPackBestiariesImages\":false},\"importCultBoon\":{\"ownership\":0,\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true},\"importDeck\":{\"ownership\":0},\"importDeity\":{\"ownership\":0},\"importFacility\":{\"ownership\":0,\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\"},\"importFeat\":{\"ownership\":0,\"isTargetTemplatePrompt\":true,\"isMetricDistance\":false,\"additionalDataCompendium\":[\"dnd-tashas-cauldron.tcoe-character-options\"],\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true},\"importReward\":{\"ownership\":0,\"isTargetTemplatePrompt\":true,\"isMetricDistance\":false,\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true},\"importHazard\":{\"ownership\":0},\"importItem\":{\"ownership\":0,\"isAddActiveEffects\":true,\"isMetricDistance\":false,\"isMetricWeight\":false,\"isMetricVolume\":false,\"isSetValueFromRarity\":true,\"inventoryStackingMode\":1,\"isSplitPacksActor\":true,\"isSplitAtomicPacksActor\":false,\"throwables\":[\"Handaxe\",\"Javelin\",\"Light Hammer\",\"Dart\",\"Net\"],\"altAbilityScoreByClass\":[\"monk:club:dex\",\"monk:dagger:dex\",\"monk:handaxe:dex\",\"monk:javelin:dex\",\"monk:light hammer:dex\",\"monk:mace:dex\",\"monk:quarterstaff:dex\",\"monk:shortsword:dex\",\"monk:sickle:dex\",\"monk:spear:dex\"],\"identified\":{\"mundane\":true,\"magic\":true,\"mundaneActor\":true,\"magicActor\":true},\"isImportDescriptionHeader\":false,\"isImportDescriptionMastery\":true,\"additionalDataCompendium\":[\"dnd5e.items\",\"dnd5e.tradegoods\",\"dnd-phandelver-below.pbso-items\",\"dnd-phandelver-below.pbso-player-options\",\"dnd-tashas-cauldron.tcoe-magic-items\"],\"replacementDataCompendium\":[],\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true},\"importLanguage\":{\"ownership\":0},\"importMap\":{\"scenePadding\":0,\"sceneBackgroundColorMode\":\"browser\",\"sceneBackgroundColorLight\":\"#ffffff\",\"sceneBackgroundColorDark\":\"#222222\",\"isSceneTokenVision\":true,\"isSceneFogExploration\":true,\"isSceneAddToNavigation\":false,\"isSceneGenerateThumbnail\":true,\"isSceneGridMetric\":false,\"baseSideDataUrl\":\"https://raw.githubusercontent.com/TheGiddyLimit/plutonium-scenes/main\",\"isFetchSideData\":true,\"isDrawDebugRegionsPreTransform\":false,\"isDrawDebugRegionsPostTransform\":false,\"debugAllowedMapUrlPathList\":null},\"importObjectFeature\":{\"ownership\":0,\"isTargetTemplatePrompt\":true,\"isMetricDistance\":false,\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\"},\"importObject\":{\"ownership\":0,\"tokenNameDisplay\":20,\"tokenDisposition\":-1,\"tokenLockRotation\":\"VE_USE_MODULE_VALUE\",\"tokenIsAddVision\":1,\"tokenSightRange\":\"VE_USE_MODULE_VALUE\",\"tokenSightVisionMode\":\"VE_USE_MODULE_VALUE\",\"tokenSightAngle\":\"VE_USE_MODULE_VALUE\",\"tokenDetectionModes\":\"VE_USE_MODULE_VALUE\",\"tokenVisionSaturation\":\"VE_USE_MODULE_VALUE\",\"tokenDimLight\":\"VE_USE_MODULE_VALUE\",\"tokenBrightLight\":\"VE_USE_MODULE_VALUE\",\"tokenLightAngle\":\"VE_USE_MODULE_VALUE\",\"tokenLightColor\":\"VE_USE_MODULE_VALUE\",\"tokenLightAlpha\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationType\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationSpeed\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationIntensity\":\"VE_USE_MODULE_VALUE\",\"tokenBarDisplay\":40,\"tokenBar1Attribute\":\"attributes.hp\",\"tokenBar2Attribute\":null,\"tokenScale\":null,\"isTokenMetric\":false,\"isEnableDynamicRing\":true,\"dynamicRingRingColor\":null,\"dynamicRingBackgroundColor\":null,\"dynamicRingEffects\":{\"2\":false,\"4\":false,\"8\":false},\"isMetricDistance\":false,\"isImportBio\":true,\"isImportBioImages\":false,\"isUseTokenImageAsPortrait\":false,\"isDisableActorOverwriteWarning\":false},\"importOptionalFeature\":{\"ownership\":0,\"isTargetTemplatePrompt\":true,\"isMetricDistance\":false,\"isFilterOnOpen\":true,\"additionalDataCompendium\":[\"dnd5e.classfeatures\",\"dnd-tashas-cauldron.tcoe-character-options\"],\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true},\"importPsionic\":{\"ownership\":0,\"psiPointsResource\":\"sheetItem\",\"psiPointsResourceCustom\":null,\"isImportAsSpell\":false,\"isTargetTemplatePrompt\":true,\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true},\"importRecipe\":{\"ownership\":0},\"importRule\":{\"ownership\":0},\"importRaceFeature\":{\"ownership\":0,\"isTargetTemplatePrompt\":true,\"additionalDataCompendiumFeatures\":[\"dnd5e.races\"],\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\"},\"importRace\":{\"ownership\":0,\"tokenNameDisplay\":20,\"tokenDisposition\":-1,\"tokenLockRotation\":\"VE_USE_MODULE_VALUE\",\"tokenIsAddVision\":1,\"tokenSightRange\":\"VE_USE_MODULE_VALUE\",\"tokenSightVisionMode\":\"VE_USE_MODULE_VALUE\",\"tokenSightAngle\":\"VE_USE_MODULE_VALUE\",\"tokenDetectionModes\":\"VE_USE_MODULE_VALUE\",\"tokenVisionSaturation\":\"VE_USE_MODULE_VALUE\",\"tokenDimLight\":\"VE_USE_MODULE_VALUE\",\"tokenBrightLight\":\"VE_USE_MODULE_VALUE\",\"tokenLightAngle\":\"VE_USE_MODULE_VALUE\",\"tokenLightColor\":\"VE_USE_MODULE_VALUE\",\"tokenLightAlpha\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationType\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationSpeed\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationIntensity\":\"VE_USE_MODULE_VALUE\",\"tokenBarDisplay\":40,\"tokenBar1Attribute\":\"attributes.hp\",\"tokenBar2Attribute\":null,\"tokenScale\":null,\"isTokenMetric\":false,\"isMetricDistance\":false,\"additionalDataCompendium\":[\"dnd5e.races\"],\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true},\"importSpell\":{\"ownership\":0,\"prepareActorSpells\":true,\"prepareSpellItems\":false,\"actorSpellPreparationMode\":\"prepared\",\"isAutoDetectActorSpellPreparationMode\":true,\"spellItemPreparationMode\":\"prepared\",\"spellScrollPriceMode\":0,\"spellScrollPricesCustom\":\"0,0,0,0,0,0,0,0,0,0\",\"isAddSummonsProfiles\":true,\"spellPointsMode\":0,\"spellPointsResource\":\"sheetItem\",\"spellPointsResourceCustom\":null,\"isIncludeClassesInDescription\":false,\"isTargetTemplatePrompt\":true,\"isMetricDistance\":false,\"isFilterOnOpen\":true,\"debugInnateScalingLevelDelta\":null,\"additionalDataCompendium\":[\"dnd5e.spells\",\"dnd-tashas-cauldron.tcoe-character-options\"],\"replacementDataCompendium\":[],\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true,\"isUseCustomSrdIcons\":true,\"isUseDefaultSchoolImage\":true,\"spellPointsModeNpc\":0},\"importTable\":{\"ownership\":0,\"additionalDataCompendium\":[\"dnd5e.tables\"]},\"importTrapFeature\":{\"ownership\":0,\"isTargetTemplatePrompt\":true,\"isMetricDistance\":false,\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\"},\"importTrap\":{\"ownership\":0,\"tokenNameDisplay\":20,\"tokenDisposition\":-1,\"tokenLockRotation\":\"VE_USE_MODULE_VALUE\",\"tokenIsAddVision\":1,\"tokenSightRange\":\"VE_USE_MODULE_VALUE\",\"tokenSightVisionMode\":\"VE_USE_MODULE_VALUE\",\"tokenSightAngle\":\"VE_USE_MODULE_VALUE\",\"tokenDetectionModes\":\"VE_USE_MODULE_VALUE\",\"tokenVisionSaturation\":\"VE_USE_MODULE_VALUE\",\"tokenDimLight\":\"VE_USE_MODULE_VALUE\",\"tokenBrightLight\":\"VE_USE_MODULE_VALUE\",\"tokenLightAngle\":\"VE_USE_MODULE_VALUE\",\"tokenLightColor\":\"VE_USE_MODULE_VALUE\",\"tokenLightAlpha\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationType\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationSpeed\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationIntensity\":\"VE_USE_MODULE_VALUE\",\"tokenBarDisplay\":40,\"tokenBar1Attribute\":\"attributes.hp\",\"tokenBar2Attribute\":null,\"tokenScale\":null,\"isTokenMetric\":false,\"isImportBio\":true,\"isImportBioImages\":false,\"isDisableActorOverwriteWarning\":false},\"importVehicleUpgrade\":{\"ownership\":0,\"isTargetTemplatePrompt\":true,\"isMetricDistance\":false,\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\",\"isImportDescription\":true},\"importVehicle\":{\"ownership\":0,\"tokenNameDisplay\":20,\"tokenDisposition\":-1,\"tokenLockRotation\":\"VE_USE_MODULE_VALUE\",\"tokenIsAddVision\":1,\"tokenSightRange\":\"VE_USE_MODULE_VALUE\",\"tokenSightVisionMode\":\"VE_USE_MODULE_VALUE\",\"tokenSightAngle\":\"VE_USE_MODULE_VALUE\",\"tokenDetectionModes\":\"VE_USE_MODULE_VALUE\",\"tokenVisionSaturation\":\"VE_USE_MODULE_VALUE\",\"tokenDimLight\":\"VE_USE_MODULE_VALUE\",\"tokenBrightLight\":\"VE_USE_MODULE_VALUE\",\"tokenLightAngle\":\"VE_USE_MODULE_VALUE\",\"tokenLightColor\":\"VE_USE_MODULE_VALUE\",\"tokenLightAlpha\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationType\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationSpeed\":\"VE_USE_MODULE_VALUE\",\"tokenLightAnimationIntensity\":\"VE_USE_MODULE_VALUE\",\"tokenBarDisplay\":40,\"tokenBar1Attribute\":\"attributes.hp\",\"tokenBar2Attribute\":null,\"tokenScale\":null,\"isTokenMetric\":false,\"isMetricDistance\":false,\"isImportBio\":true,\"isImportBioImages\":false,\"additionalDataCompendium\":[],\"isUseTokenImageAsPortrait\":false,\"isDisableActorOverwriteWarning\":false,\"setEffectDisabled\":\"VE_USE_MODULE_VALUE\",\"setEffectTransfer\":\"VE_USE_MODULE_VALUE\"},\"integrationThreeDiCanvas\":{\"isSetThreeDiModels\":true},\"integrationBabele\":{\"isEnabled\":true,\"isUseTranslatedDescriptions\":true},\"integrationFoundrySummons\":{\"isEnabled\":true,\"isFilterSourcesUa\":true,\"isFilterLegacy\":true,\"isFilterModern\":false},\"integrationQuickInsert\":{\"isEnabled\":true,\"isFilterSourcesUa\":true,\"isFilterLegacy\":true,\"isFilterModern\":false,\"pagesHidden\":{\"actions.html\":false,\"backgrounds.html\":false,\"bastions.html\":false,\"bestiary.html\":false,\"citation\":false,\"classes.html\":false,\"conditionsdiseases.html\":false,\"cultsboons.html\":false,\"decks.html\":false,\"deities.html\":false,\"feats.html\":false,\"itemMastery\":false,\"itemProperty\":false,\"items.html\":false,\"languages.html\":false,\"legendaryGroup\":false,\"objects.html\":false,\"charcreationoptions.html\":false,\"optionalfeatures.html\":false,\"psionics.html\":false,\"recipes.html\":true,\"variantrules.html\":false,\"races.html\":false,\"spells.html\":false,\"rewards.html\":false,\"tables.html\":false,\"trapshazards.html\":false,\"vehicles.html\":false},\"isDisplaySource\":true},\"integrationSpotlightOmnisearch\":{\"isEnabled\":true,\"isFilterSourcesUa\":true,\"isFilterLegacy\":true,\"isFilterModern\":false,\"pagesHidden\":{\"actions.html\":false,\"backgrounds.html\":false,\"bastions.html\":false,\"bestiary.html\":false,\"citation\":false,\"classes.html\":false,\"conditionsdiseases.html\":false,\"cultsboons.html\":false,\"decks.html\":false,\"deities.html\":false,\"feats.html\":false,\"itemMastery\":false,\"itemProperty\":false,\"items.html\":false,\"languages.html\":false,\"legendaryGroup\":false,\"objects.html\":false,\"charcreationoptions.html\":false,\"optionalfeatures.html\":false,\"psionics.html\":false,\"recipes.html\":true,\"variantrules.html\":false,\"races.html\":false,\"spells.html\":false,\"rewards.html\":false,\"tables.html\":false,\"trapshazards.html\":false,\"vehicles.html\":false}},\"item\":{\"isSuppressAdvancementsOnImportedDrop\":true},\"journalEntries\":{\"isAutoExpandJournalEmbeds\":true,\"isEnableNoteHeaderAnchor\":true},\"misc\":{\"rulesVersion\":\"VE_USE_GAME_DEFAULT\",\"isSkipAddonAutomationCheck\":false,\"isSkipBackendCheck\":false,\"backendEndpoint\":null,\"isPatchFromUuid\":true,\"isDebugDocumentOperations\":false,\"isDebugFromUuid\":false,\"isSetDocumentOperationsCanaryFlags\":false,\"isDebugImageFetching\":false},\"rivet\":{\"targetDocumentId\":\"\",\"isDisplayStatus\":true,\"minimumRole\":0},\"text\":{\"isEnableHoverForLinkTags\":false,\"isAutoRollActorItemTags\":false,\"isJumpToFolderTags\":true,\"isShowLinkParent\":false,\"isAllowRedirectImports\":true},\"tokens\":{\"isDisplayDamageDealt\":false,\"damageDealtBloodiedThreshold\":0.5,\"isDamageDealtBelowToken\":false,\"nameplateFontSizeMultiplier\":null,\"isAllowNameplateFontWrap\":\"VE_USE_GAME_DEFAULT\",\"nameplateFontWrapWidthMultiplier\":null,\"isNameplateOnToken\":false,\"npcHpRollMode\":0,\"isDisableAnimations\":false,\"animationSpeedMultiplier\":null,\"missingHealthAttribute\":\"attributes.hp\",\"isIgnoreDisableAnimationsForWaypointMovement\":true},\"tools\":{\"isDeduplicateIgnoreType\":false,\"minimumRolePolymorph\":0,\"minimumRoleActorTools\":0,\"minimumRoleTableTools\":0,\"minimumRoleShowPlayers\":0,\"minimumRoleDirectoryCleaner\":3,\"minimumRoleDirectoryDeduplicator\":3,\"minimumRoleDirectoryMover\":3,\"minimumRoleBulkOwnershipEditor\":3,\"minimumRoleBulkPrototypeTokenEditor\":3,\"minimumRoleOwnershipUpdater\":3,\"minimumRoleLootGenerator\":3,\"minimumRoleContentUpdater\":3,\"minimumRolePackageImporter\":3,\"minimumRoleImagePreloader\":3,\"isAddClearFlagsContextMenu\":false},\"ui\":{\"isStreamerMode\":true,\"colorScheme\":\"VE_USE_GAME_DEFAULT\",\"isShowPopout\":true,\"isCompactWindowBar\":true,\"isCompactDirectoryButtons\":true,\"isCompactChat\":true,\"isCompactScenes\":true,\"isCompactActors\":true,\"isCompactItems\":true,\"isCompactJournal\":true,\"isCompactTables\":true,\"isCompactCards\":true,\"isCompactCompendiums\":true,\"isCompactMacros\":true,\"isLeftAlignSceneNames\":false,\"isHidePlutoniumDirectoryButtons\":false,\"isHidePlutoniumSheetMenuButton\":false,\"isHideUpdateNotifications\":false,\"isNameTabFromScene\":true,\"tabNameSuffix\":null,\"isDisplayBackendStatus\":true,\"isExpandActiveEffectConfig\":true,\"isAddDeleteToSceneNavOptions\":true,\"isHideGmOnlyConfig\":true,\"isDisableLargeImportWarning\":false,\"isFastAnimations\":false,\"isFastTooltips\":false,\"isEnableCustomTooltips\":true,\"isFixEscapeKey\":true,\"isFixDrawingFreehandMinDistance\":true,\"isEnableIncreasedFolderDepth\":true,\"isEnableFolderNameWrap\":false,\"isEnableSubPopouts\":true,\"isSuppressMissingRollDataNotifications\":true,\"isAlwaysResizableApps\":false},\"version\":2}"
+  },
+  {
+    "key": "plutonium.plutonium_client_we_dont_talk",
+    "value": "{\"_\":true}"
+  },
+  {
+    "key": "Rideable.allowTileRiding",
+    "value": "true"
+  },
+  {
+    "key": "Rideable.FamiliarRiding",
+    "value": "true"
+  },
+  {
+    "key": "Rideable.FamiliarRidingFirstCorner",
+    "value": "\"0\""
+  },
+  {
+    "key": "Rideable.FollowingCombatBehaviour",
+    "value": "\"resumeafter\""
+  },
+  {
+    "key": "Rideable.Grappling",
+    "value": "true"
+  },
+  {
+    "key": "Rideable.MountingDistance",
+    "value": "15"
+  },
+  {
+    "key": "Rideable.RiderRotation",
+    "value": "true"
+  },
+  {
+    "key": "Rideable.RidingHeight",
+    "value": "1"
+  },
+  {
+    "key": "Rideable.StopGrappleonEffectRemoval",
+    "value": "true"
+  },
+  {
+    "key": "sequencer.welcome-shown",
+    "value": "true"
+  },
+  {
+    "key": "theripper-premium-hub.lastGitCheck",
+    "value": "1739897361754"
+  },
+  {
+    "key": "theripper-premium-hub.viewedUpdates",
+    "value": "{\"canvas3dtokencompendium\":\"2.0.5\",\"combat-tracker-dock\":\"3.1.7\",\"levels\":\"5.4.0\",\"theripper-premium-hub\":\"4.1.3\",\"portal-lib\":\"2.2.14\"}"
+  },
+  {
+    "key": "times-up.Debug",
+    "value": "\"none\""
+  },
+  {
+    "key": "times-up.store",
+    "value": "{\"entries\":[]}"
+  },
+  {
+    "key": "wall-height.chat-welcome-message-shown",
+    "value": "true"
+  },
+  {
+    "key": "yendors-scene-actors.changelog",
+    "value": "\"1.2.4\""
+  },
+  {
+    "name": "Gamemaster",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#cc283c",
+      "permissions": {},
+      "role": 4
+    },
+    "flags": {
+      "dnd5e": {
+        "sheetPrefs": {
+          "character": {
+            "width": 877,
+            "height": 848,
+            "tabs": {
+              "details": {
+                "collapseSidebar": false,
+                "group": true,
+                "sort": "m"
+              },
+              "spells": {
+                "sort": "a",
+                "collapseSidebar": false,
+                "group": true
+              },
+              "features": {
+                "group": true,
+                "sort": "m",
+                "collapseSidebar": false
+              }
+            }
+          },
+          "npc": {
+            "tabs": {
+              "features": {
+                "collapseSidebar": false,
+                "sort": "m",
+                "group": false
+              },
+              "spells": {
+                "collapseSidebar": false,
+                "group": true,
+                "sort": "m"
+              }
+            },
+            "width": 881,
+            "height": 791
+          }
+        },
+        "awardDestinations": [],
+        "creation": {
+          "scrollExplanation": "reference"
+        }
+      },
+      "custom-dnd5e": {
+        "auto-fade-sheet": false,
+        "auto-minimise-sheet": false,
+        "sheet-scale": null
+      },
+      "token-attacher": {
+        "copyPrototypeMap": {
+          "map": {
+            "Token": {}
+          },
+          "grid": {
+            "size": 100,
+            "sizeX": 100,
+            "sizeY": 115.47005383792515
+          }
+        }
+      },
+      "cthulhu-architect-handout-generator": {
+        "welcomeMessageShown": true
+      },
+      "cthulhu-architect-maps-nyarlathotep-tier": {
+        "welcomeMessageShown": true
+      },
+      "monks-combat-details": {
+        "remember-previous": true
+      },
+      "monks-little-details": {
+        "last-actor": "Compendium.fate-lc-sheet.servants.Actor.UGOkHoZ4Wcdx8kAN",
+        "quicklinks": [
+          {
+            "target": "icons/skills/melee",
+            "favorite": false
+          },
+          {
+            "target": "icons/magic/holy",
+            "favorite": false
+          },
+          {
+            "target": "icons/magic/perception",
+            "favorite": false
+          },
+          {
+            "target": "icons/magic/movement",
+            "favorite": false
+          },
+          {
+            "target": "icons/magic/life",
+            "favorite": false
+          },
+          {
+            "target": "modules/fate-lc-sheet/assets/Characters/Servants/Lancers/Li%20Shuwen",
+            "favorite": false
+          },
+          {
+            "target": "icons/magic/symbols",
+            "favorite": false
+          },
+          {
+            "target": "modules/fate-lc-sheet/assets/Characters/Servants/Casters/Anastasia%20Romanova",
+            "favorite": false
+          },
+          {
+            "target": "icons/magic/water",
+            "favorite": false
+          },
+          {
+            "target": "icons/creatures/eyes",
+            "favorite": false
+          },
+          {
+            "target": "icons/commodities/materials",
+            "favorite": false
+          },
+          {
+            "target": "icons/creatures/magical",
+            "favorite": false
+          },
+          {
+            "target": "icons/magic/unholy",
+            "favorite": false
+          },
+          {
+            "target": "modules/fate-lc-sheet/assets/Characters/Servants/Berserkers/Kriemhild",
+            "favorite": false
+          },
+          {
+            "target": "icons/environment/people",
+            "favorite": false
+          },
+          {
+            "target": "icons/skills/wounds",
+            "favorite": false
+          },
+          {
+            "target": "icons/creatures/abilities",
+            "favorite": false
+          },
+          {
+            "target": "icons/creatures/reptiles",
+            "favorite": false
+          },
+          {
+            "target": "icons/magic/control",
+            "favorite": false
+          },
+          {
+            "target": "icons/skills/trades",
+            "favorite": false
+          },
+          {
+            "target": "icons/magic/nature",
+            "favorite": false
+          },
+          {
+            "target": "modules/fate-lc-sheet/assets/Characters/Servants/Riders/Medusa",
+            "favorite": false
+          },
+          {
+            "target": "modules/fate-lc-sheet/assets/Characters/Servants/Assassins/Yan%20Qing",
+            "favorite": false
+          },
+          {
+            "target": "modules/fate-lc-sheet/assets/Characters/Servants/Archers/Robin%20Hood",
+            "favorite": false
+          },
+          {
+            "target": "modules/fate-lc-sheet/assets/Characters/Servants/Sabers/Watanabe%20no%20Tsuna",
+            "favorite": false
+          }
+        ]
+      },
+      "monks-enhanced-journal": {
+        "tabs": [
+          {
+            "id": "11AwdLJmkgk8ZOlq",
+            "text": "For the DM: Set up",
+            "active": true,
+            "entityId": "Compendium.fate-lc-sheet.rules.JournalEntry.s07bLpI7ZokI0ejS",
+            "history": [
+              "Compendium.fate-lc-sheet.rules.JournalEntry.s07bLpI7ZokI0ejS",
+              "JournalEntry.7MqkhsxinBwPcDen",
+              "JournalEntry.5X67LwCfmHdyTxGe",
+              "JournalEntry.0C4oYROCQFcUb86i",
+              "Compendium.dnd5e.monsters.Actor.zwT2WjWo7cTm2631",
+              "JournalEntry.0C4oYROCQFcUb86i",
+              "JournalEntry.xrs1lSdJvYHF73ZD",
+              "Compendium.fate-lc-sheet.rules.JournalEntry.l3L7j5JSnQG2AaRH",
+              "JournalEntry.xrs1lSdJvYHF73ZD",
+              "JournalEntry.kbE0SS0JMbHLbSFt"
+            ],
+            "historyIdx": 0
+          },
+          {
+            "id": "tXzLZ6JhbuSHEOOv",
+            "text": "Base Alchemist shop",
+            "active": false,
+            "entityId": "JournalEntry.FKQbw8cSRfHfBwgB.JournalEntryPage.ohwUwhvuGRmifNKQ",
+            "history": [
+              "JournalEntry.FKQbw8cSRfHfBwgB",
+              "JournalEntry.7MqkhsxinBwPcDen",
+              "JournalEntry.0F8QGKdRxj8LJ6wy",
+              "JournalEntry.VXJ9gt64A5LW9ovs",
+              "JournalEntry.VXJ9gt64A5LW9ovs",
+              "JournalEntry.hIqb8mEqvpEcwTmW",
+              "JournalEntry.f1EKRYXd9tCcuw5S",
+              "JournalEntry.8DfzuNJJTbKYHvbu",
+              "JournalEntry.qDarY5DbYWvsBrpb",
+              "JournalEntry.QSKYEMh4p1tYwO80"
+            ]
+          }
+        ],
+        "_recentlyViewed": [
+          {
+            "id": "s07bLpI7ZokI0ejS",
+            "uuid": "Compendium.fate-lc-sheet.rules.JournalEntry.s07bLpI7ZokI0ejS",
+            "name": "For the DM: Set up"
+          },
+          {
+            "id": "7MqkhsxinBwPcDen",
+            "uuid": "JournalEntry.7MqkhsxinBwPcDen",
+            "name": "Arcane Curio Dealer"
+          },
+          {
+            "id": "5X67LwCfmHdyTxGe",
+            "uuid": "JournalEntry.5X67LwCfmHdyTxGe",
+            "name": "Library"
+          },
+          {
+            "id": "0C4oYROCQFcUb86i",
+            "uuid": "JournalEntry.0C4oYROCQFcUb86i",
+            "name": "Appendix A: Conditions"
+          },
+          {
+            "id": "zwT2WjWo7cTm2631",
+            "uuid": "Compendium.dnd5e.monsters.Actor.zwT2WjWo7cTm2631",
+            "name": "Mage Hand"
+          }
+        ],
+        "bookmarks": [
+          {
+            "id": "uCk6Xvc8Q2JqtJWz",
+            "entityId": "JournalEntry.7Tm7qSpW53hqr3WD.JournalEntryPage.ikR3F6uoFaz768ul",
+            "text": "Test Shop",
+            "icon": "fa-dolly-flatbed"
+          },
+          {
+            "id": "OhO6UDeL1ynRpwcI",
+            "entityId": "JournalEntry.xrs1lSdJvYHF73ZD",
+            "text": "For the DM: Set up",
+            "icon": "fa-book-open"
+          }
+        ],
+        "lastrolltable": "RollTable.xYUlrt6g1vgG2dPh",
+        "pagestate": {
+          "ohwUwhvuGRmifNKQ": {
+            "scrollPositions": {}
+          },
+          "5X67LwCfmHdyTxGe": {
+            "scrollPositions": {}
+          },
+          "PFG6AlWbTVNULx3v": {
+            "scrollPositions": {
+              "": {
+                "shop-items > ": {
+                  "item-list": [
+                    0,
+                    0
+                  ]
+                },
+                "tab": {
+                  "description ": {
+                    "tab-inner": [
+                      0
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "s07bLpI7ZokI0ejS": {
+            "scrollPositions": {
+              "": {
+                "scrollable": [
+                  0,
+                  0
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Giuls",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#cc7928",
+      "permissions": {},
+      "role": 4
+    },
+    "flags": {}
+  },
+  {
+    "name": "Player3",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#5a28cc",
+      "permissions": {},
+      "role": 1
+    },
+    "flags": {
+      "monks-combat-details": {
+        "remember-previous": true
+      },
+      "monks-little-details": {
+        "last-actor": "Actor.MwLc4OT2kEXyfkXC"
+      }
+    }
+  },
+  {
+    "name": "Player4",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#2860cc",
+      "permissions": {},
+      "role": 1
+    },
+    "flags": {
+      "monks-combat-details": {
+        "remember-previous": true
+      }
+    }
+  },
+  {
+    "type": "_supportingDataType",
+    "value": {
+      "compendiumFolders": [
+        {
+          "_id": "OzeaEJq1YwAC5KC7",
+          "name": "Active Auras",
+          "type": "Compendium",
+          "sorting": "m",
+          "sort": 100000,
+          "color": null,
+          "folder": null,
+          "description": "",
+          "flags": {},
+          "_stats": {
+            "coreVersion": "12.331",
+            "systemId": "dnd5e",
+            "systemVersion": "4.1.2",
+            "createdTime": 1738354534339,
+            "modifiedTime": 1738354534339,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null
+          }
+        },
+        {
+          "_id": "02TJoUBOBfEO0sjh",
+          "name": "Character Features",
+          "type": "Compendium",
+          "sorting": "m",
+          "sort": 200000,
+          "color": "#b72c1f",
+          "folder": "rnnrEnIpbjqhQSLu",
+          "description": "",
+          "flags": {},
+          "_stats": {
+            "coreVersion": "12.331",
+            "systemId": "dnd5e",
+            "systemVersion": "4.1.2",
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null
+          }
+        },
+        {
+          "name": "Character creation",
+          "sorting": "a",
+          "folder": "3fk8ny9KQQBDCCjd",
+          "type": "Compendium",
+          "_id": "fJ4lP6bcsWUjoaBm",
+          "description": "",
+          "sort": 0,
+          "color": "#0a8301",
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "12.331",
+            "systemId": "dnd5e",
+            "systemVersion": "4.2.2",
+            "createdTime": 1738778409627,
+            "modifiedTime": 1738778434767,
+            "lastModifiedBy": "MkVNTWKJr4PkwjEi"
+          }
+        },
+        {
+          "_id": "rnnrEnIpbjqhQSLu",
+          "name": "D&D SRD Content",
+          "type": "Compendium",
+          "sorting": "m",
+          "sort": 100000,
+          "color": "#cd2c1e",
+          "folder": null,
+          "description": "",
+          "flags": {},
+          "_stats": {
+            "coreVersion": "12.331",
+            "systemId": "dnd5e",
+            "systemVersion": "4.1.2",
+            "createdTime": 1736884421813,
+            "modifiedTime": 1736884421813,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null
+          }
+        },
+        {
+          "name": "Fate/Lost Continuum",
+          "sorting": "a",
+          "folder": null,
+          "type": "Compendium",
+          "_id": "3fk8ny9KQQBDCCjd",
+          "description": "",
+          "sort": 0,
+          "color": "#700000",
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "12.331",
+            "systemId": "dnd5e",
+            "systemVersion": "4.1.2",
+            "createdTime": 1736890704489,
+            "modifiedTime": 1736890710975,
+            "lastModifiedBy": "MkVNTWKJr4PkwjEi"
+          }
+        },
+        {
+          "_id": "fYw1sdhiJskjINLV",
+          "name": "Items & Spells",
+          "type": "Compendium",
+          "sorting": "m",
+          "sort": 300000,
+          "color": "#941919",
+          "folder": "rnnrEnIpbjqhQSLu",
+          "description": "",
+          "flags": {},
+          "_stats": {
+            "coreVersion": "12.331",
+            "systemId": "dnd5e",
+            "systemVersion": "4.1.2",
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null
+          }
+        },
+        {
+          "_id": "2RhDptgGoi1jTWWz",
+          "name": "Levels",
+          "type": "Compendium",
+          "sorting": "a",
+          "sort": 100000,
+          "color": "#ffa200",
+          "folder": null,
+          "description": "",
+          "flags": {},
+          "_stats": {
+            "coreVersion": "12.331",
+            "systemId": "dnd5e",
+            "systemVersion": "4.1.2",
+            "createdTime": 1738443752269,
+            "modifiedTime": 1738443752269,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null
+          }
+        },
+        {
+          "_id": "qUZUFpugMyfjcXre",
+          "name": "Monsters",
+          "type": "Compendium",
+          "sorting": "m",
+          "sort": 400000,
+          "color": "#7d160c",
+          "folder": "rnnrEnIpbjqhQSLu",
+          "description": "",
+          "flags": {},
+          "_stats": {
+            "coreVersion": "12.331",
+            "systemId": "dnd5e",
+            "systemVersion": "4.1.2",
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null
+          }
+        }
+      ]
+    }
+  }
+]
